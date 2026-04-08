@@ -1,0 +1,736 @@
+district_name,state_name,year,total_habitations,affected_habitations_total,affected_pct,arsenic_affected_habitations,fluoride_affected_habitations,iron_affected_habitations,nitrate_affected_habitations,primary_contaminant,water_quality_risk_level,source_name,source_year
+Srikakulam,Andhra Pradesh,2018,196,8,4.2,0,4,3,0,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Vizianagaram,Andhra Pradesh,2018,373,10,2.79,0,5,1,2,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Visakhapatnam,Andhra Pradesh,2018,471,57,12.18,0,28,5,16,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+East Godavari,Andhra Pradesh,2018,475,8,1.77,0,0,0,1,Salinity,Low,DataGovIn_RajyaSabha2018,2018
+West Godavari,Andhra Pradesh,2018,130,8,6.68,0,1,1,0,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Krishna,Andhra Pradesh,2018,217,22,10.59,0,9,5,3,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Guntur,Andhra Pradesh,2018,478,75,15.84,0,35,2,10,Nitrate,High,DataGovIn_RajyaSabha2018,2018
+Prakasam,Andhra Pradesh,2018,394,13,3.48,0,6,3,1,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Nellore,Andhra Pradesh,2018,62,4,6.82,0,1,0,0,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Kadapa,Andhra Pradesh,2018,559,55,9.97,0,22,17,16,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Kurnool,Andhra Pradesh,2018,795,77,9.71,0,12,9,10,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Anantapur,Andhra Pradesh,2018,478,62,13.06,0,18,20,13,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Chittoor,Andhra Pradesh,2018,465,33,7.11,0,15,0,7,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+YSR Kadapa,Andhra Pradesh,2018,349,34,9.94,0,12,4,7,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Eluru,Andhra Pradesh,2018,720,86,12.06,0,33,2,6,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Bapatla,Andhra Pradesh,2018,334,50,15.04,0,23,18,5,Heavy Metals,High,DataGovIn_RajyaSabha2018,2018
+Parvathipuram Manyam,Andhra Pradesh,2018,776,15,2.04,0,0,0,2,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Anakapalli,Andhra Pradesh,2018,212,14,6.72,0,0,5,3,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Alluri Sitharama Raju,Andhra Pradesh,2018,540,37,7.01,0,1,14,3,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Kakinada,Andhra Pradesh,2018,488,77,15.93,0,14,22,10,Fluoride,High,DataGovIn_RajyaSabha2018,2018
+Konaseema,Andhra Pradesh,2018,751,33,4.44,0,6,9,9,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Nandyal,Andhra Pradesh,2018,66,10,15.5,0,1,0,2,Arsenic,High,DataGovIn_RajyaSabha2018,2018
+Sri Sathya Sai,Andhra Pradesh,2018,266,30,11.46,0,10,2,6,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Tirupati,Andhra Pradesh,2018,400,61,15.43,0,12,1,4,Iron,High,DataGovIn_RajyaSabha2018,2018
+Annamayya,Andhra Pradesh,2018,633,32,5.09,0,8,6,9,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Tawang,Arunachal Pradesh,2018,229,49,21.75,0,2,13,11,Arsenic,High,DataGovIn_RajyaSabha2018,2018
+West Kameng,Arunachal Pradesh,2018,445,85,19.29,0,3,17,6,Multiple,High,DataGovIn_RajyaSabha2018,2018
+East Kameng,Arunachal Pradesh,2018,279,40,14.6,0,3,1,11,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Papum Pare,Arunachal Pradesh,2018,151,24,15.92,0,1,1,1,Fluoride,High,DataGovIn_RajyaSabha2018,2018
+Kurung Kumey,Arunachal Pradesh,2018,182,38,20.95,0,3,2,2,Heavy Metals,High,DataGovIn_RajyaSabha2018,2018
+Kra Daadi,Arunachal Pradesh,2018,191,41,21.81,0,2,12,4,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Lower Subansiri,Arunachal Pradesh,2018,311,62,19.97,0,2,3,3,Bacteriological,High,DataGovIn_RajyaSabha2018,2018
+Upper Subansiri,Arunachal Pradesh,2018,226,49,21.95,0,3,6,2,Arsenic,High,DataGovIn_RajyaSabha2018,2018
+West Siang,Arunachal Pradesh,2018,500,60,12.06,0,0,7,1,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+East Siang,Arunachal Pradesh,2018,208,7,3.76,0,0,0,1,Heavy Metals,Low,DataGovIn_RajyaSabha2018,2018
+Siang,Arunachal Pradesh,2018,468,81,17.51,0,3,2,21,Nitrate,High,DataGovIn_RajyaSabha2018,2018
+Upper Siang,Arunachal Pradesh,2018,235,40,17.22,0,0,0,2,Heavy Metals,High,DataGovIn_RajyaSabha2018,2018
+Dibang Valley,Arunachal Pradesh,2018,276,58,21.36,0,2,14,6,Arsenic,High,DataGovIn_RajyaSabha2018,2018
+Lower Dibang Valley,Arunachal Pradesh,2018,420,41,9.98,0,2,16,1,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Anjaw,Arunachal Pradesh,2018,208,31,15.17,0,2,10,7,Arsenic,High,DataGovIn_RajyaSabha2018,2018
+Lohit,Arunachal Pradesh,2018,471,16,3.46,0,1,4,4,Salinity,Low,DataGovIn_RajyaSabha2018,2018
+Namsai,Arunachal Pradesh,2018,590,31,5.38,0,2,0,1,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Changlang,Arunachal Pradesh,2018,439,56,12.88,0,0,19,5,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Tirap,Arunachal Pradesh,2018,399,11,2.81,0,0,1,0,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Longding,Arunachal Pradesh,2018,23,3,13.82,0,3,0,0,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Pakke Kessang,Arunachal Pradesh,2018,597,80,13.46,0,0,30,18,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Lepa Rada,Arunachal Pradesh,2018,309,50,16.4,0,3,14,7,Multiple,High,DataGovIn_RajyaSabha2018,2018
+Shi Yomi,Arunachal Pradesh,2018,647,46,7.25,0,3,15,2,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Kamle,Arunachal Pradesh,2018,569,116,20.47,0,1,9,18,Iron,High,DataGovIn_RajyaSabha2018,2018
+Kamrup,Assam,2018,417,73,17.59,28,1,11,0,Bacteriological,High,DataGovIn_RajyaSabha2018,2018
+Kamrup Metropolitan,Assam,2018,327,12,3.73,3,3,4,1,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Sonitpur,Assam,2018,148,22,15.01,5,1,6,3,Bacteriological,High,DataGovIn_RajyaSabha2018,2018
+Lakhimpur,Assam,2018,491,65,13.28,14,3,14,11,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Dibrugarh,Assam,2018,353,42,12.18,4,1,7,3,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Sivasagar,Assam,2018,602,27,4.55,10,2,7,8,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Jorhat,Assam,2018,403,47,11.83,6,3,4,7,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Golaghat,Assam,2018,575,68,11.97,9,3,1,6,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Nagaon,Assam,2018,365,37,10.34,2,3,14,8,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Morigaon,Assam,2018,204,34,16.68,0,1,6,9,Iron,High,DataGovIn_RajyaSabha2018,2018
+Hojai,Assam,2018,299,51,17.33,18,1,20,12,Nitrate,High,DataGovIn_RajyaSabha2018,2018
+Darrang,Assam,2018,174,14,8.06,3,1,5,1,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Udalguri,Assam,2018,343,38,11.29,1,0,2,1,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Bongaigaon,Assam,2018,28,4,16.31,0,2,0,1,Heavy Metals,High,DataGovIn_RajyaSabha2018,2018
+Chirang,Assam,2018,227,30,13.45,3,2,1,5,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Barpeta,Assam,2018,617,99,16.05,28,3,21,22,Iron,High,DataGovIn_RajyaSabha2018,2018
+Nalbari,Assam,2018,316,19,6.31,2,1,2,3,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Baksa,Assam,2018,565,91,16.15,26,1,35,17,Multiple,High,DataGovIn_RajyaSabha2018,2018
+Dhubri,Assam,2018,736,127,17.33,44,1,7,9,Multiple,High,DataGovIn_RajyaSabha2018,2018
+South Salmara-Mankachar,Assam,2018,119,16,13.64,1,3,3,3,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Kokrajhar,Assam,2018,194,26,13.83,9,2,7,2,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Goalpara,Assam,2018,40,6,17.12,2,2,1,0,Heavy Metals,High,DataGovIn_RajyaSabha2018,2018
+Cachar,Assam,2018,90,3,4.27,1,3,0,0,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Hailakandi,Assam,2018,669,44,6.6,2,2,15,0,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Karimganj,Assam,2018,193,14,7.32,2,1,4,2,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Dima Hasao,Assam,2018,521,34,6.56,2,0,10,3,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Karbi Anglong,Assam,2018,289,25,8.67,6,2,0,4,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+West Karbi Anglong,Assam,2018,695,18,2.7,0,1,0,5,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Majuli,Assam,2018,329,24,7.57,7,3,6,0,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Biswanath,Assam,2018,733,54,7.48,11,3,13,10,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Charaideo,Assam,2018,374,48,13.05,17,1,15,4,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Patna,Bihar,2018,105,18,17.86,1,2,1,0,Iron,High,DataGovIn_RajyaSabha2018,2018
+Nalanda,Bihar,2018,800,28,3.51,1,1,5,1,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Bhojpur,Bihar,2018,605,96,15.87,5,0,0,23,Arsenic,High,DataGovIn_RajyaSabha2018,2018
+Buxar,Bihar,2018,774,123,15.96,39,0,9,29,Heavy Metals,High,DataGovIn_RajyaSabha2018,2018
+Rohtas,Bihar,2018,700,24,3.48,1,0,2,3,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Kaimur,Bihar,2018,210,6,3.23,0,0,1,0,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Gaya,Bihar,2018,71,10,14.36,3,2,4,1,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Jehanabad,Bihar,2018,222,31,14.21,7,1,7,4,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Aurangabad,Bihar,2018,473,23,4.89,0,0,2,1,Salinity,Low,DataGovIn_RajyaSabha2018,2018
+Nawada,Bihar,2018,167,28,17.23,9,1,11,1,Fluoride,High,DataGovIn_RajyaSabha2018,2018
+Arwal,Bihar,2018,212,10,4.93,2,1,1,3,Salinity,Low,DataGovIn_RajyaSabha2018,2018
+Vaishali,Bihar,2018,635,56,8.94,20,2,6,13,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Saran,Bihar,2018,373,54,14.69,16,0,20,8,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Siwan,Bihar,2018,792,35,4.47,0,0,7,5,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Gopalganj,Bihar,2018,654,98,15.05,27,0,28,0,Fluoride,High,DataGovIn_RajyaSabha2018,2018
+Muzaffarpur,Bihar,2018,346,41,12.07,11,0,8,11,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Sitamarhi,Bihar,2018,481,38,7.97,15,2,15,4,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Sheohar,Bihar,2018,340,38,11.32,6,1,5,0,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Madhubani,Bihar,2018,439,43,9.88,14,2,12,7,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Darbhanga,Bihar,2018,483,20,4.32,6,3,0,6,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Samastipur,Bihar,2018,344,28,8.39,10,1,6,5,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Begusarai,Bihar,2018,464,72,15.69,21,1,4,18,Iron,High,DataGovIn_RajyaSabha2018,2018
+Khagaria,Bihar,2018,242,7,3.29,1,3,0,1,Heavy Metals,Low,DataGovIn_RajyaSabha2018,2018
+Bhagalpur,Bihar,2018,222,4,1.99,1,1,1,1,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Banka,Bihar,2018,214,21,10.26,7,3,6,6,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Munger,Bihar,2018,519,97,18.85,3,2,6,2,Heavy Metals,High,DataGovIn_RajyaSabha2018,2018
+Lakhisarai,Bihar,2018,742,74,10.09,9,1,7,16,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Sheikhpura,Bihar,2018,241,21,9.01,0,2,2,2,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Jamui,Bihar,2018,720,90,12.61,7,1,33,9,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Supaul,Bihar,2018,762,62,8.25,22,1,11,18,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Madhepura,Bihar,2018,84,1,1.92,1,3,0,0,Heavy Metals,Low,DataGovIn_RajyaSabha2018,2018
+Saharsa,Bihar,2018,724,41,5.76,10,3,8,8,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Purnea,Bihar,2018,611,96,15.73,12,1,20,25,Nitrate,High,DataGovIn_RajyaSabha2018,2018
+Kishanganj,Bihar,2018,745,90,12.15,15,1,31,18,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Araria,Bihar,2018,39,2,7.18,0,3,0,1,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Katihar,Bihar,2018,561,58,10.34,19,2,2,14,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+West Champaran,Bihar,2018,217,34,15.68,4,1,5,0,Multiple,High,DataGovIn_RajyaSabha2018,2018
+East Champaran,Bihar,2018,272,15,5.58,0,2,2,4,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Raipur,Chhattisgarh,2018,595,27,4.63,0,2,5,7,Heavy Metals,Low,DataGovIn_RajyaSabha2018,2018
+Durg,Chhattisgarh,2018,639,120,18.93,0,1,41,12,Fluoride,High,DataGovIn_RajyaSabha2018,2018
+Bilaspur,Chhattisgarh,2018,322,51,16.03,0,1,16,9,Nitrate,High,DataGovIn_RajyaSabha2018,2018
+Korba,Chhattisgarh,2018,405,40,10.01,0,0,9,4,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Rajnandgaon,Chhattisgarh,2018,167,12,7.54,0,0,3,0,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Raigarh,Chhattisgarh,2018,496,83,16.85,0,1,28,20,Bacteriological,High,DataGovIn_RajyaSabha2018,2018
+Janjgir-Champa,Chhattisgarh,2018,588,28,4.85,0,3,5,1,Salinity,Low,DataGovIn_RajyaSabha2018,2018
+Surguja,Chhattisgarh,2018,486,34,7.15,0,3,4,2,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Korea,Chhattisgarh,2018,350,71,20.35,0,0,1,10,Multiple,High,DataGovIn_RajyaSabha2018,2018
+Jashpur,Chhattisgarh,2018,397,18,4.55,0,3,0,5,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Kanker,Chhattisgarh,2018,681,55,8.08,0,1,10,1,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Kondagaon,Chhattisgarh,2018,351,44,12.77,0,0,16,0,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Narayanpur,Chhattisgarh,2018,528,16,3.04,0,0,1,1,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Bastar,Chhattisgarh,2018,555,27,4.97,0,1,1,5,Heavy Metals,Low,DataGovIn_RajyaSabha2018,2018
+Dantewada,Chhattisgarh,2018,366,12,3.37,0,2,0,3,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Sukma,Chhattisgarh,2018,578,17,3.01,0,3,5,3,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Bijapur,Chhattisgarh,2018,581,103,17.76,0,1,28,5,Fluoride,High,DataGovIn_RajyaSabha2018,2018
+Bemetara,Chhattisgarh,2018,287,17,6.21,0,0,5,5,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Mungeli,Chhattisgarh,2018,73,10,14.27,0,1,3,0,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Balod,Chhattisgarh,2018,244,40,16.52,0,1,4,8,Heavy Metals,High,DataGovIn_RajyaSabha2018,2018
+Gariaband,Chhattisgarh,2018,350,32,9.32,0,3,0,8,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Mahasamund,Chhattisgarh,2018,524,11,2.26,0,3,4,0,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Dhamtari,Chhattisgarh,2018,224,29,13.24,0,1,3,7,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Baloda Bazar,Chhattisgarh,2018,377,58,15.42,0,2,16,5,Bacteriological,High,DataGovIn_RajyaSabha2018,2018
+Kawardha,Chhattisgarh,2018,237,11,4.75,0,0,4,2,Salinity,Low,DataGovIn_RajyaSabha2018,2018
+Gaurela-Pendra-Marwahi,Chhattisgarh,2018,589,53,9.06,0,3,5,6,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Sarangarh-Bilaigarh,Chhattisgarh,2018,362,20,5.6,0,2,6,0,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Manendragarh,Chhattisgarh,2018,482,11,2.36,0,3,1,1,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Shakti,Chhattisgarh,2018,62,5,9.32,0,0,2,0,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Khairagarh,Chhattisgarh,2018,797,102,12.86,0,2,13,28,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Mohla-Manpur-Ambagarh Chowki,Chhattisgarh,2018,389,42,10.8,0,1,8,3,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+North Goa,Goa,2018,337,0,0.28,0,1,1,0,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+South Goa,Goa,2018,757,20,2.76,0,2,7,3,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Ahmedabad,Gujarat,2018,523,37,7.24,0,9,12,10,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Surat,Gujarat,2018,99,8,9.01,0,0,0,2,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Vadodara,Gujarat,2018,31,4,13.31,0,0,1,1,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Rajkot,Gujarat,2018,766,64,8.39,0,10,3,1,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Bhavnagar,Gujarat,2018,240,22,9.4,0,6,5,0,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Jamnagar,Gujarat,2018,447,42,9.5,0,9,1,1,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Junagadh,Gujarat,2018,165,7,4.42,0,1,0,2,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Gandhinagar,Gujarat,2018,507,16,3.27,0,1,0,1,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+Anand,Gujarat,2018,613,61,10.03,0,8,8,0,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Kheda,Gujarat,2018,84,8,10.51,0,1,1,0,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Mehsana,Gujarat,2018,714,42,5.91,0,1,15,6,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Banaskantha,Gujarat,2018,442,14,3.28,0,0,4,0,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Sabarkantha,Gujarat,2018,307,31,10.23,0,15,3,4,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Aravalli,Gujarat,2018,707,32,4.54,0,6,3,7,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Mahisagar,Gujarat,2018,685,10,1.57,0,4,3,3,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Panchmahal,Gujarat,2018,752,90,12.03,0,3,18,11,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Dahod,Gujarat,2018,632,36,5.77,0,15,8,2,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Vadodara,Gujarat,2018,694,88,12.72,0,35,34,4,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Narmada,Gujarat,2018,772,71,9.31,0,26,5,18,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Bharuch,Gujarat,2018,401,28,7.08,0,5,4,2,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Surat,Gujarat,2018,711,57,8.05,0,11,13,2,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Navsari,Gujarat,2018,160,8,5.33,0,2,3,1,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Valsad,Gujarat,2018,63,3,5.46,0,0,1,0,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Dang,Gujarat,2018,230,26,11.72,0,6,1,6,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Tapi,Gujarat,2018,533,43,8.07,0,16,3,9,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Botad,Gujarat,2018,280,36,13.15,0,5,11,3,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Amreli,Gujarat,2018,520,13,2.52,0,5,2,3,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Gir Somnath,Gujarat,2018,244,20,8.5,0,6,1,1,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Porbandar,Gujarat,2018,179,21,11.85,0,3,0,6,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Devbhumi Dwarka,Gujarat,2018,527,15,2.88,0,1,5,2,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Morbi,Gujarat,2018,793,49,6.28,0,6,17,10,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Chhota Udaipur,Gujarat,2018,215,2,1.31,0,0,1,0,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Mahisagar,Gujarat,2018,210,24,11.76,0,10,1,1,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Ambala,Haryana,2018,483,58,12.07,0,3,11,12,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Yamuna Nagar,Haryana,2018,734,57,7.9,0,2,12,11,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Kurukshetra,Haryana,2018,331,19,5.91,0,3,0,5,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Kaithal,Haryana,2018,52,3,6.75,0,2,0,1,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Karnal,Haryana,2018,412,40,9.73,0,0,13,11,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Panipat,Haryana,2018,721,47,6.64,0,0,12,0,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Sonipat,Haryana,2018,797,91,11.54,0,3,16,17,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Rohtak,Haryana,2018,104,3,3.75,0,0,1,1,Heavy Metals,Low,DataGovIn_RajyaSabha2018,2018
+Jhajjar,Haryana,2018,267,21,7.97,0,3,0,2,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Fatehabad,Haryana,2018,585,58,10.02,0,3,6,13,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Hisar,Haryana,2018,30,2,8.92,0,0,1,0,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Bhiwani,Haryana,2018,494,20,4.09,0,3,8,5,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Charkhi Dadri,Haryana,2018,279,21,7.76,0,3,2,3,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Mahendragarh,Haryana,2018,186,2,1.32,0,2,1,0,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Rewari,Haryana,2018,98,3,3.2,0,3,0,0,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Gurugram,Haryana,2018,782,81,10.37,0,1,24,1,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Faridabad,Haryana,2018,207,7,3.49,0,3,0,2,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+Palwal,Haryana,2018,737,88,12.04,0,0,6,5,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Nuh,Haryana,2018,155,14,9.59,0,0,3,3,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Panchkula,Haryana,2018,735,43,5.92,0,2,17,1,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Sirsa,Haryana,2018,505,6,1.25,0,3,2,1,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Shimla,Himachal Pradesh,2018,86,1,1.71,0,2,1,1,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Mandi,Himachal Pradesh,2018,160,3,2.08,0,1,0,0,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Kangra,Himachal Pradesh,2018,476,38,8.01,0,2,8,7,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Solan,Himachal Pradesh,2018,692,19,2.79,0,3,1,4,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Una,Himachal Pradesh,2018,257,7,2.98,0,2,0,2,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Hamirpur,Himachal Pradesh,2018,31,1,4.84,0,0,0,1,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Bilaspur,Himachal Pradesh,2018,330,34,10.43,0,1,5,3,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Chamba,Himachal Pradesh,2018,238,6,2.83,0,3,1,1,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Kullu,Himachal Pradesh,2018,121,3,2.65,0,0,0,0,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Lahaul & Spiti,Himachal Pradesh,2018,798,11,1.5,0,0,4,1,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Kinnaur,Himachal Pradesh,2018,661,59,9.04,0,2,7,8,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Sirmaur,Himachal Pradesh,2018,81,7,9.03,0,0,1,1,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Ranchi,Jharkhand,2018,217,33,15.47,5,3,7,9,Nitrate,High,DataGovIn_RajyaSabha2018,2018
+Dhanbad,Jharkhand,2018,786,159,20.23,61,3,20,15,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Bokaro,Jharkhand,2018,529,92,17.52,27,0,26,2,Fluoride,High,DataGovIn_RajyaSabha2018,2018
+Giridih,Jharkhand,2018,741,147,19.91,9,0,23,17,Bacteriological,High,DataGovIn_RajyaSabha2018,2018
+Hazaribagh,Jharkhand,2018,307,34,11.28,12,2,4,8,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Koderma,Jharkhand,2018,335,64,19.18,15,3,12,18,Iron,High,DataGovIn_RajyaSabha2018,2018
+Chatra,Jharkhand,2018,500,43,8.71,15,2,17,8,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Latehar,Jharkhand,2018,277,40,14.61,8,2,16,3,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Lohardaga,Jharkhand,2018,351,71,20.23,18,1,11,9,Nitrate,High,DataGovIn_RajyaSabha2018,2018
+Gumla,Jharkhand,2018,363,44,12.36,13,2,8,9,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Simdega,Jharkhand,2018,705,107,15.21,39,1,18,12,Heavy Metals,High,DataGovIn_RajyaSabha2018,2018
+West Singhbhum,Jharkhand,2018,749,96,12.86,20,1,29,18,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+East Singhbhum,Jharkhand,2018,140,23,16.54,4,1,3,4,Heavy Metals,High,DataGovIn_RajyaSabha2018,2018
+Seraikela Kharsawan,Jharkhand,2018,207,41,19.82,15,2,7,6,Multiple,High,DataGovIn_RajyaSabha2018,2018
+Khunti,Jharkhand,2018,754,55,7.37,18,3,17,10,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Ramgarh,Jharkhand,2018,280,39,14.14,8,0,12,8,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Deoghar,Jharkhand,2018,23,0,3.24,1,3,1,1,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Jamtara,Jharkhand,2018,223,16,7.27,3,3,4,0,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Dumka,Jharkhand,2018,467,45,9.72,3,1,5,1,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Godda,Jharkhand,2018,798,144,18.09,3,0,54,4,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Sahibganj,Jharkhand,2018,130,16,12.98,2,1,6,0,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Pakur,Jharkhand,2018,229,6,2.71,2,0,0,0,Heavy Metals,Low,DataGovIn_RajyaSabha2018,2018
+Bengaluru Urban,Karnataka,2018,659,79,12.04,0,18,27,7,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Bengaluru Rural,Karnataka,2018,245,25,10.52,0,9,4,5,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Ramanagara,Karnataka,2018,175,2,1.59,0,1,0,0,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Tumkur,Karnataka,2018,228,21,9.38,0,0,2,0,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Kolar,Karnataka,2018,517,16,3.12,0,3,6,3,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Chikkaballapura,Karnataka,2018,267,21,8.14,0,2,2,1,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Chitradurga,Karnataka,2018,129,1,1.3,0,1,1,1,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+Davanagere,Karnataka,2018,238,11,4.73,0,0,3,3,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+Shivamogga,Karnataka,2018,173,21,12.34,0,6,6,0,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Chikkamagaluru,Karnataka,2018,230,33,14.48,0,15,6,8,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Hassan,Karnataka,2018,349,5,1.56,0,2,2,1,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+Kodagu,Karnataka,2018,641,27,4.33,0,2,1,6,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Mysuru,Karnataka,2018,433,18,4.36,0,5,5,3,Salinity,Low,DataGovIn_RajyaSabha2018,2018
+Mandya,Karnataka,2018,274,32,11.97,0,7,6,9,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Chamarajanagar,Karnataka,2018,44,5,11.55,0,2,0,0,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Dharwad,Karnataka,2018,750,99,13.25,0,24,36,11,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Belagavi,Karnataka,2018,410,6,1.56,0,3,2,1,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Vijayapura,Karnataka,2018,111,8,7.81,0,2,1,1,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Bagalkot,Karnataka,2018,286,24,8.43,0,2,3,3,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Gadag,Karnataka,2018,410,27,6.72,0,12,3,1,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Haveri,Karnataka,2018,114,11,10.48,0,4,0,2,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Uttara Kannada,Karnataka,2018,557,84,15.23,0,28,9,9,Iron,High,DataGovIn_RajyaSabha2018,2018
+Udupi,Karnataka,2018,466,25,5.43,0,2,3,6,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Dakshina Kannada,Karnataka,2018,190,17,9.06,0,3,6,0,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Ballari,Karnataka,2018,606,67,11.07,0,11,9,17,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Raichur,Karnataka,2018,453,66,14.67,0,15,0,6,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Koppal,Karnataka,2018,88,11,12.84,0,2,1,0,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Yadgir,Karnataka,2018,586,74,12.66,0,11,4,17,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Kalaburagi,Karnataka,2018,271,35,13.05,0,10,13,2,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Bidar,Karnataka,2018,545,73,13.45,0,32,16,1,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Thiruvananthapuram,Kerala,2018,158,2,1.42,0,3,0,0,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Kollam,Kerala,2018,643,39,6.09,0,2,14,3,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Pathanamthitta,Kerala,2018,199,10,5.22,0,1,1,0,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Alappuzha,Kerala,2018,406,4,1.2,0,2,1,1,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Kottayam,Kerala,2018,583,23,4.04,0,3,8,3,Heavy Metals,Low,DataGovIn_RajyaSabha2018,2018
+Idukki,Kerala,2018,640,27,4.29,0,3,4,8,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Ernakulam,Kerala,2018,190,7,3.77,0,3,0,0,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Thrissur,Kerala,2018,95,4,4.45,0,2,1,0,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Palakkad,Kerala,2018,411,11,2.88,0,2,0,2,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+Malappuram,Kerala,2018,223,12,5.5,0,1,3,1,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Kozhikode,Kerala,2018,624,36,5.78,0,1,10,4,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Wayanad,Kerala,2018,270,3,1.25,0,1,1,1,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+Kannur,Kerala,2018,428,15,3.51,0,3,2,1,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+Kasaragod,Kerala,2018,153,4,3.16,0,0,0,0,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Bhopal,Madhya Pradesh,2018,322,27,8.66,0,2,7,6,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Indore,Madhya Pradesh,2018,99,12,12.83,0,2,4,3,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Jabalpur,Madhya Pradesh,2018,510,15,2.96,0,2,1,2,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Gwalior,Madhya Pradesh,2018,31,6,20.15,0,1,2,1,Arsenic,High,DataGovIn_RajyaSabha2018,2018
+Ujjain,Madhya Pradesh,2018,45,5,11.18,0,2,0,1,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Sagar,Madhya Pradesh,2018,362,59,16.55,0,3,11,10,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Satna,Madhya Pradesh,2018,396,10,2.65,0,0,3,3,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Rewa,Madhya Pradesh,2018,546,12,2.37,0,0,1,3,Heavy Metals,Low,DataGovIn_RajyaSabha2018,2018
+Katni,Madhya Pradesh,2018,696,104,14.99,0,2,9,9,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Damoh,Madhya Pradesh,2018,115,15,13.17,0,2,3,1,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Chhatarpur,Madhya Pradesh,2018,65,4,7.33,0,1,0,1,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Tikamgarh,Madhya Pradesh,2018,447,74,16.57,0,1,13,17,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Niwari,Madhya Pradesh,2018,235,4,1.71,0,0,0,0,Salinity,Low,DataGovIn_RajyaSabha2018,2018
+Datia,Madhya Pradesh,2018,764,81,10.68,0,0,14,14,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Bhind,Madhya Pradesh,2018,708,77,10.88,0,0,21,14,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Morena,Madhya Pradesh,2018,651,99,15.24,0,2,30,8,Heavy Metals,High,DataGovIn_RajyaSabha2018,2018
+Sheopur,Madhya Pradesh,2018,666,93,14.07,0,1,37,16,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Guna,Madhya Pradesh,2018,628,101,16.18,0,1,14,26,Arsenic,High,DataGovIn_RajyaSabha2018,2018
+Ashoknagar,Madhya Pradesh,2018,464,49,10.69,0,2,16,4,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Shivpuri,Madhya Pradesh,2018,761,153,20.14,0,0,60,37,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Vidisha,Madhya Pradesh,2018,283,10,3.68,0,1,4,1,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Raisen,Madhya Pradesh,2018,274,28,10.34,0,1,1,8,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Sehore,Madhya Pradesh,2018,442,68,15.51,0,3,18,10,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Hoshangabad,Madhya Pradesh,2018,103,6,6.21,0,3,2,0,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Harda,Madhya Pradesh,2018,78,7,9.8,0,3,0,1,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Betul,Madhya Pradesh,2018,51,4,7.91,0,2,0,1,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Chhindwara,Madhya Pradesh,2018,518,93,18.05,0,3,25,18,Nitrate,High,DataGovIn_RajyaSabha2018,2018
+Seoni,Madhya Pradesh,2018,435,42,9.7,0,1,9,3,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Mandla,Madhya Pradesh,2018,364,16,4.66,0,2,4,3,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Balaghat,Madhya Pradesh,2018,123,3,3.23,0,0,0,1,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+Dindori,Madhya Pradesh,2018,114,21,19.08,0,1,0,0,Multiple,High,DataGovIn_RajyaSabha2018,2018
+Shahdol,Madhya Pradesh,2018,201,4,2.31,0,2,1,1,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Anuppur,Madhya Pradesh,2018,61,2,4.77,0,2,1,0,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Umaria,Madhya Pradesh,2018,616,19,3.23,0,0,0,1,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Sidhi,Madhya Pradesh,2018,420,71,17.03,0,3,3,8,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Singrauli,Madhya Pradesh,2018,650,112,17.27,0,0,39,18,Iron,High,DataGovIn_RajyaSabha2018,2018
+Ratlam,Madhya Pradesh,2018,86,8,10.3,0,2,1,2,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Mandsaur,Madhya Pradesh,2018,528,68,12.98,0,2,1,12,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Neemuch,Madhya Pradesh,2018,700,33,4.73,0,3,12,7,Heavy Metals,Low,DataGovIn_RajyaSabha2018,2018
+Agar Malwa,Madhya Pradesh,2018,541,40,7.4,0,3,13,12,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Shajapur,Madhya Pradesh,2018,336,47,14.09,0,1,7,7,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Rajgarh,Madhya Pradesh,2018,740,33,4.59,0,0,0,9,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Dewas,Madhya Pradesh,2018,171,6,3.7,0,3,0,0,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Khargone,Madhya Pradesh,2018,309,49,16.03,0,2,18,3,Multiple,High,DataGovIn_RajyaSabha2018,2018
+Barwani,Madhya Pradesh,2018,465,43,9.32,0,2,6,7,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Dhar,Madhya Pradesh,2018,392,18,4.61,0,1,5,0,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Jhabua,Madhya Pradesh,2018,52,9,17.34,0,2,3,0,Multiple,High,DataGovIn_RajyaSabha2018,2018
+Alirajpur,Madhya Pradesh,2018,494,68,13.94,0,3,25,10,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Khandwa,Madhya Pradesh,2018,156,26,16.87,0,3,10,5,Iron,High,DataGovIn_RajyaSabha2018,2018
+Burhanpur,Madhya Pradesh,2018,27,4,17.87,0,1,1,1,Fluoride,High,DataGovIn_RajyaSabha2018,2018
+Narsinghpur,Madhya Pradesh,2018,518,93,17.98,0,2,9,1,Iron,High,DataGovIn_RajyaSabha2018,2018
+Mumbai City,Maharashtra,2018,265,21,8.18,0,7,4,1,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Mumbai Suburban,Maharashtra,2018,447,7,1.63,0,0,2,1,Heavy Metals,Low,DataGovIn_RajyaSabha2018,2018
+Thane,Maharashtra,2018,649,40,6.25,0,0,3,7,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Palghar,Maharashtra,2018,236,7,3.14,0,2,2,1,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Raigad,Maharashtra,2018,465,54,11.72,0,23,1,14,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Ratnagiri,Maharashtra,2018,571,84,14.86,0,29,2,9,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Sindhudurg,Maharashtra,2018,38,2,6.72,0,0,1,1,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Nashik,Maharashtra,2018,643,57,8.99,0,10,18,7,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Dhule,Maharashtra,2018,291,15,5.24,0,0,6,1,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Nandurbar,Maharashtra,2018,424,20,4.76,0,8,3,0,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Jalgaon,Maharashtra,2018,480,21,4.4,0,0,6,0,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Ahmednagar,Maharashtra,2018,300,25,8.49,0,8,6,0,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Pune,Maharashtra,2018,634,64,10.25,0,31,18,6,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Satara,Maharashtra,2018,138,17,12.9,0,6,4,5,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Sangli,Maharashtra,2018,201,17,8.62,0,3,0,5,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Solapur,Maharashtra,2018,101,5,5.64,0,0,1,0,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Kolhapur,Maharashtra,2018,152,21,13.95,0,4,2,5,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Aurangabad,Maharashtra,2018,707,32,4.65,0,5,6,3,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Jalna,Maharashtra,2018,390,9,2.45,0,2,2,2,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Beed,Maharashtra,2018,98,14,14.66,0,1,0,1,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Latur,Maharashtra,2018,796,112,14.13,0,11,7,28,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Osmanabad,Maharashtra,2018,144,11,8.01,0,4,3,0,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Nanded,Maharashtra,2018,704,67,9.58,0,5,11,2,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Hingoli,Maharashtra,2018,200,12,6.45,0,1,4,2,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Parbhani,Maharashtra,2018,655,79,12.2,0,5,4,5,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Akola,Maharashtra,2018,370,12,3.31,0,6,4,1,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+Amravati,Maharashtra,2018,795,78,9.82,0,1,21,12,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Buldhana,Maharashtra,2018,126,15,12.24,0,6,1,1,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Washim,Maharashtra,2018,655,64,9.9,0,4,23,7,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Yavatmal,Maharashtra,2018,590,69,11.74,0,24,10,20,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Wardha,Maharashtra,2018,223,30,13.52,0,1,7,3,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Nagpur,Maharashtra,2018,604,36,6.0,0,11,10,5,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Bhandara,Maharashtra,2018,787,99,12.66,0,20,29,2,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Gondia,Maharashtra,2018,118,10,9.31,0,4,0,1,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Chandrapur,Maharashtra,2018,526,45,8.74,0,17,10,1,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Gadchiroli,Maharashtra,2018,673,36,5.48,0,9,8,6,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Imphal West,Manipur,2018,59,10,18.06,0,0,2,1,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Imphal East,Manipur,2018,408,84,20.74,0,2,21,13,Fluoride,High,DataGovIn_RajyaSabha2018,2018
+Thoubal,Manipur,2018,563,48,8.66,0,3,9,11,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Bishnupur,Manipur,2018,436,9,2.18,0,2,2,0,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Kakching,Manipur,2018,160,31,19.45,0,0,5,1,Fluoride,High,DataGovIn_RajyaSabha2018,2018
+Churachandpur,Manipur,2018,290,47,16.34,0,2,3,2,Nitrate,High,DataGovIn_RajyaSabha2018,2018
+Senapati,Manipur,2018,616,104,16.96,0,1,3,17,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Ukhrul,Manipur,2018,798,97,12.2,0,0,35,29,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Chandel,Manipur,2018,585,83,14.25,0,0,25,24,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Tengnoupal,Manipur,2018,339,65,19.21,0,3,2,10,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Tamenglong,Manipur,2018,778,21,2.74,0,0,1,4,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Noney,Manipur,2018,129,24,18.69,0,0,7,5,Bacteriological,High,DataGovIn_RajyaSabha2018,2018
+Jiribam,Manipur,2018,574,21,3.78,0,1,8,6,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Pherzawl,Manipur,2018,103,8,8.1,0,1,0,2,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Kangpokpi,Manipur,2018,501,29,5.9,0,1,2,8,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+East Khasi Hills,Meghalaya,2018,437,7,1.69,0,2,2,2,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+West Khasi Hills,Meghalaya,2018,524,59,11.35,0,0,13,6,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+South West Khasi Hills,Meghalaya,2018,217,35,16.29,0,2,5,2,Bacteriological,High,DataGovIn_RajyaSabha2018,2018
+Ri Bhoi,Meghalaya,2018,624,55,8.93,0,2,8,7,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+East Jaintia Hills,Meghalaya,2018,743,67,9.08,0,3,0,3,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+West Jaintia Hills,Meghalaya,2018,624,31,5.0,0,2,11,2,Iron,Low,DataGovIn_RajyaSabha2018,2018
+East Garo Hills,Meghalaya,2018,676,80,11.93,0,1,8,22,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+West Garo Hills,Meghalaya,2018,256,49,19.37,0,0,2,10,Bacteriological,High,DataGovIn_RajyaSabha2018,2018
+South Garo Hills,Meghalaya,2018,156,29,18.78,0,2,1,0,Nitrate,High,DataGovIn_RajyaSabha2018,2018
+Eastern West Khasi Hills,Meghalaya,2018,754,26,3.57,0,0,6,1,Heavy Metals,Low,DataGovIn_RajyaSabha2018,2018
+North Garo Hills,Meghalaya,2018,231,22,9.56,0,1,1,6,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Aizawl,Mizoram,2018,352,59,16.79,0,3,21,16,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Lunglei,Mizoram,2018,474,56,11.83,0,1,6,12,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Champhai,Mizoram,2018,212,32,15.1,0,1,7,7,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Kolasib,Mizoram,2018,467,9,2.12,0,0,3,1,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Mamit,Mizoram,2018,82,11,13.7,0,0,3,2,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Serchhip,Mizoram,2018,443,13,3.09,0,2,1,2,Salinity,Low,DataGovIn_RajyaSabha2018,2018
+Lawngtlai,Mizoram,2018,201,16,8.08,0,0,3,4,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Siaha,Mizoram,2018,620,52,8.53,0,2,20,7,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Khawzawl,Mizoram,2018,225,27,12.23,0,2,7,6,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Hnahthial,Mizoram,2018,184,16,8.94,0,3,1,0,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Saitual,Mizoram,2018,680,61,9.03,0,1,17,16,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Kohima,Nagaland,2018,132,9,6.84,0,2,2,2,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Dimapur,Nagaland,2018,298,54,18.13,0,2,12,0,Fluoride,High,DataGovIn_RajyaSabha2018,2018
+Mokokchung,Nagaland,2018,600,119,19.94,0,0,15,18,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Wokha,Nagaland,2018,270,43,16.15,0,1,15,8,Arsenic,High,DataGovIn_RajyaSabha2018,2018
+Zunheboto,Nagaland,2018,172,34,19.96,0,2,12,8,Bacteriological,High,DataGovIn_RajyaSabha2018,2018
+Tuensang,Nagaland,2018,601,49,8.23,0,3,6,2,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Mon,Nagaland,2018,770,58,7.57,0,3,8,8,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Phek,Nagaland,2018,663,62,9.39,0,2,3,12,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Kiphire,Nagaland,2018,659,36,5.48,0,1,5,0,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Longleng,Nagaland,2018,385,41,10.71,0,1,10,7,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Peren,Nagaland,2018,461,91,19.94,0,0,4,3,Iron,High,DataGovIn_RajyaSabha2018,2018
+Tseminyu,Nagaland,2018,256,24,9.55,0,0,3,7,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Shamator,Nagaland,2018,567,117,20.67,0,0,6,35,Multiple,High,DataGovIn_RajyaSabha2018,2018
+Noklak,Nagaland,2018,755,32,4.33,0,1,3,5,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Khordha,Odisha,2018,57,3,6.62,0,3,0,1,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Cuttack,Odisha,2018,234,8,3.53,0,1,0,0,Salinity,Low,DataGovIn_RajyaSabha2018,2018
+Puri,Odisha,2018,632,75,11.95,0,1,1,15,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Jagatsinghpur,Odisha,2018,574,28,4.92,0,0,7,3,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Kendrapara,Odisha,2018,358,13,3.65,0,1,4,2,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Bhadrak,Odisha,2018,457,68,14.98,0,2,24,14,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Balasore,Odisha,2018,47,7,15.79,0,0,2,1,Nitrate,High,DataGovIn_RajyaSabha2018,2018
+Mayurbhanj,Odisha,2018,196,34,17.37,0,1,11,0,Iron,High,DataGovIn_RajyaSabha2018,2018
+Keonjhar,Odisha,2018,220,38,17.47,0,1,4,4,Multiple,High,DataGovIn_RajyaSabha2018,2018
+Dhenkanal,Odisha,2018,82,11,14.32,0,1,4,1,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Angul,Odisha,2018,140,21,15.54,0,1,5,5,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Jajpur,Odisha,2018,723,71,9.95,0,0,26,5,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Nayagarh,Odisha,2018,407,7,1.89,0,2,0,2,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Ganjam,Odisha,2018,720,127,17.77,0,3,6,5,Iron,High,DataGovIn_RajyaSabha2018,2018
+Gajapati,Odisha,2018,236,7,3.14,0,3,0,1,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Kandhamal,Odisha,2018,736,126,17.19,0,2,45,33,Heavy Metals,High,DataGovIn_RajyaSabha2018,2018
+Boudh,Odisha,2018,483,22,4.74,0,1,7,3,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Bolangir,Odisha,2018,645,113,17.65,0,3,17,20,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Sonepur,Odisha,2018,640,37,5.82,0,0,3,6,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Nuapada,Odisha,2018,404,66,16.43,0,3,2,18,Fluoride,High,DataGovIn_RajyaSabha2018,2018
+Bargarh,Odisha,2018,731,30,4.16,0,0,3,8,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Sambalpur,Odisha,2018,593,64,10.86,0,1,1,16,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Jharsuguda,Odisha,2018,571,105,18.39,0,1,15,3,Fluoride,High,DataGovIn_RajyaSabha2018,2018
+Sundargarh,Odisha,2018,267,32,11.99,0,0,5,8,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Deogarh,Odisha,2018,285,19,6.71,0,1,2,0,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Rayagada,Odisha,2018,522,93,17.9,0,1,8,25,Nitrate,High,DataGovIn_RajyaSabha2018,2018
+Koraput,Odisha,2018,735,101,13.84,0,1,39,14,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Nabarangpur,Odisha,2018,452,69,15.45,0,0,23,10,Multiple,High,DataGovIn_RajyaSabha2018,2018
+Malkangiri,Odisha,2018,188,27,14.7,0,2,0,0,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Kalahandi,Odisha,2018,47,7,16.48,0,0,2,0,Fluoride,High,DataGovIn_RajyaSabha2018,2018
+Amritsar,Punjab,2018,350,7,2.22,0,0,0,2,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Gurdaspur,Punjab,2018,512,50,9.94,0,0,14,11,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Pathankot,Punjab,2018,665,52,7.94,0,0,4,11,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Hoshiarpur,Punjab,2018,408,29,7.19,0,2,4,4,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Nawanshahr,Punjab,2018,107,6,5.95,0,1,2,1,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Rupnagar,Punjab,2018,522,29,5.72,0,0,2,2,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Mohali,Punjab,2018,533,35,6.69,0,0,5,6,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Ludhiana,Punjab,2018,61,3,5.57,0,3,0,0,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Firozpur,Punjab,2018,22,1,7.09,0,1,1,1,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Fazilka,Punjab,2018,110,4,4.14,0,2,0,1,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Moga,Punjab,2018,596,10,1.8,0,3,1,2,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Jalandhar,Punjab,2018,349,14,4.22,0,0,2,2,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Kapurthala,Punjab,2018,610,26,4.28,0,0,8,0,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+Fatehgarh Sahib,Punjab,2018,74,3,4.59,0,1,1,1,Heavy Metals,Low,DataGovIn_RajyaSabha2018,2018
+Patiala,Punjab,2018,37,3,8.17,0,1,0,0,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Sangrur,Punjab,2018,294,24,8.46,0,0,6,4,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Malerkotla,Punjab,2018,589,56,9.57,0,0,8,8,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Barnala,Punjab,2018,580,57,9.89,0,3,7,16,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Bathinda,Punjab,2018,407,31,7.64,0,1,8,1,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Mansa,Punjab,2018,294,8,2.97,0,0,1,2,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Muktsar,Punjab,2018,653,47,7.24,0,1,16,9,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Faridkot,Punjab,2018,437,15,3.52,0,0,1,3,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Tarn Taran,Punjab,2018,397,30,7.68,0,3,3,1,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Jaipur,Rajasthan,2018,277,9,3.56,0,0,3,1,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Ajmer,Rajasthan,2018,180,16,9.06,0,5,6,2,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Alwar,Rajasthan,2018,211,21,10.05,0,3,5,2,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Bharatpur,Rajasthan,2018,320,18,5.77,0,0,1,3,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Dhaulpur,Rajasthan,2018,335,34,10.21,0,8,13,4,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Karauli,Rajasthan,2018,251,41,16.66,0,11,7,8,Iron,High,DataGovIn_RajyaSabha2018,2018
+Sawai Madhopur,Rajasthan,2018,302,25,8.6,0,2,7,0,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Tonk,Rajasthan,2018,58,4,7.75,0,2,0,1,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Bundi,Rajasthan,2018,229,46,20.41,0,6,11,3,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Kota,Rajasthan,2018,621,51,8.26,0,22,3,12,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Baran,Rajasthan,2018,164,29,18.18,0,1,1,7,Multiple,High,DataGovIn_RajyaSabha2018,2018
+Jhalawar,Rajasthan,2018,758,148,19.65,0,15,34,3,Nitrate,High,DataGovIn_RajyaSabha2018,2018
+Jhunjhunu,Rajasthan,2018,266,36,13.89,0,6,7,3,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Sikar,Rajasthan,2018,434,64,14.91,0,14,1,13,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Nagaur,Rajasthan,2018,760,26,3.45,0,1,9,7,Heavy Metals,Low,DataGovIn_RajyaSabha2018,2018
+Jodhpur,Rajasthan,2018,418,16,3.83,0,8,6,3,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Barmer,Rajasthan,2018,30,6,20.31,0,1,0,0,Fluoride,High,DataGovIn_RajyaSabha2018,2018
+Jaisalmer,Rajasthan,2018,362,63,17.63,0,7,17,4,Arsenic,High,DataGovIn_RajyaSabha2018,2018
+Bikaner,Rajasthan,2018,270,42,15.81,0,10,15,10,Multiple,High,DataGovIn_RajyaSabha2018,2018
+Churu,Rajasthan,2018,290,48,16.63,0,19,3,11,Bacteriological,High,DataGovIn_RajyaSabha2018,2018
+Ganganagar,Rajasthan,2018,23,4,19.72,0,2,0,1,Heavy Metals,High,DataGovIn_RajyaSabha2018,2018
+Hanumangarh,Rajasthan,2018,644,115,17.9,0,8,3,4,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Pali,Rajasthan,2018,638,21,3.33,0,1,8,5,Salinity,Low,DataGovIn_RajyaSabha2018,2018
+Jalore,Rajasthan,2018,131,16,12.79,0,3,1,3,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Sirohi,Rajasthan,2018,371,69,18.83,0,8,24,13,Nitrate,High,DataGovIn_RajyaSabha2018,2018
+Udaipur,Rajasthan,2018,194,35,18.36,0,5,3,9,Iron,High,DataGovIn_RajyaSabha2018,2018
+Banswara,Rajasthan,2018,95,6,6.75,0,2,1,1,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Dungarpur,Rajasthan,2018,98,3,3.76,0,0,1,0,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Pratapgarh,Rajasthan,2018,785,21,2.77,0,5,0,6,Heavy Metals,Low,DataGovIn_RajyaSabha2018,2018
+Rajsamand,Rajasthan,2018,263,31,11.85,0,12,6,6,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Bhilwara,Rajasthan,2018,551,87,15.91,0,7,8,13,Arsenic,High,DataGovIn_RajyaSabha2018,2018
+Chittorgarh,Rajasthan,2018,63,13,20.97,0,6,0,1,Heavy Metals,High,DataGovIn_RajyaSabha2018,2018
+Dausa,Rajasthan,2018,419,41,9.94,0,19,2,12,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+East Sikkim,Sikkim,2018,415,11,2.78,0,3,0,2,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+West Sikkim,Sikkim,2018,122,15,12.52,0,1,2,2,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+North Sikkim,Sikkim,2018,73,7,10.87,0,1,1,2,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+South Sikkim,Sikkim,2018,517,44,8.54,0,3,13,12,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Pakyong,Sikkim,2018,656,22,3.47,0,2,4,5,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Soreng,Sikkim,2018,138,5,3.85,0,0,2,1,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Chennai,Tamil Nadu,2018,370,18,4.88,0,3,2,3,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Tiruvallur,Tamil Nadu,2018,237,9,4.04,0,2,0,0,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Kancheepuram,Tamil Nadu,2018,703,40,5.82,0,0,1,8,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Chengalpattu,Tamil Nadu,2018,598,51,8.55,0,0,9,9,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Vellore,Tamil Nadu,2018,36,3,10.29,0,3,1,0,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Ranipet,Tamil Nadu,2018,794,69,8.77,0,3,24,19,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Tirupattur,Tamil Nadu,2018,692,33,4.85,0,3,1,8,Salinity,Low,DataGovIn_RajyaSabha2018,2018
+Krishnagiri,Tamil Nadu,2018,168,13,7.96,0,2,4,3,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Dharmapuri,Tamil Nadu,2018,170,8,5.29,0,0,2,0,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Salem,Tamil Nadu,2018,603,54,9.04,0,1,5,6,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Namakkal,Tamil Nadu,2018,209,24,11.91,0,1,4,2,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Erode,Tamil Nadu,2018,433,36,8.33,0,0,6,9,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Tiruppur,Tamil Nadu,2018,591,42,7.15,0,3,3,7,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Coimbatore,Tamil Nadu,2018,51,4,9.35,0,1,0,1,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Nilgiris,Tamil Nadu,2018,552,49,8.89,0,2,19,14,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Theni,Tamil Nadu,2018,685,28,4.17,0,1,10,8,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Dindigul,Tamil Nadu,2018,311,36,11.76,0,2,6,10,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Madurai,Tamil Nadu,2018,165,21,12.73,0,3,5,0,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Sivaganga,Tamil Nadu,2018,435,37,8.68,0,2,8,10,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Virudhunagar,Tamil Nadu,2018,464,44,9.59,0,0,17,6,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Ramanathapuram,Tamil Nadu,2018,372,23,6.29,0,0,3,0,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Thoothukudi,Tamil Nadu,2018,456,10,2.28,0,1,1,2,Heavy Metals,Low,DataGovIn_RajyaSabha2018,2018
+Tirunelveli,Tamil Nadu,2018,788,20,2.56,0,1,4,3,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Tenkasi,Tamil Nadu,2018,266,22,8.64,0,2,8,2,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Kanyakumari,Tamil Nadu,2018,50,5,11.82,0,1,1,0,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Thanjavur,Tamil Nadu,2018,26,2,9.68,0,3,1,1,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Tiruvarur,Tamil Nadu,2018,76,1,2.52,0,3,0,0,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Nagapattinam,Tamil Nadu,2018,704,24,3.51,0,2,0,0,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Mayiladuthurai,Tamil Nadu,2018,404,31,7.86,0,2,1,4,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Ariyalur,Tamil Nadu,2018,775,40,5.18,0,3,13,12,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Perambalur,Tamil Nadu,2018,664,51,7.78,0,3,20,13,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Tiruchirappalli,Tamil Nadu,2018,71,7,10.49,0,1,2,1,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Karur,Tamil Nadu,2018,37,4,12.64,0,3,1,1,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Pudukkottai,Tamil Nadu,2018,186,3,1.76,0,3,0,1,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Cuddalore,Tamil Nadu,2018,707,19,2.69,0,1,5,0,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Kallakurichi,Tamil Nadu,2018,783,96,12.34,0,3,24,1,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Villupuram,Tamil Nadu,2018,598,60,10.09,0,0,24,8,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Hyderabad,Telangana,2018,426,65,15.3,0,16,2,6,Nitrate,High,DataGovIn_RajyaSabha2018,2018
+Rangareddy,Telangana,2018,227,18,8.06,0,1,2,2,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Medchal-Malkajgiri,Telangana,2018,752,114,15.21,0,12,22,25,Fluoride,High,DataGovIn_RajyaSabha2018,2018
+Sangareddy,Telangana,2018,498,46,9.42,0,2,14,0,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Vikarabad,Telangana,2018,188,21,11.42,0,1,2,0,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Medak,Telangana,2018,135,6,4.53,0,3,0,1,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Siddipet,Telangana,2018,498,43,8.69,0,18,11,6,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Nizamabad,Telangana,2018,214,9,4.52,0,0,2,1,Salinity,Low,DataGovIn_RajyaSabha2018,2018
+Kamareddy,Telangana,2018,626,12,1.99,0,1,4,2,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Jagtial,Telangana,2018,164,23,14.21,0,4,8,0,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Rajanna Sircilla,Telangana,2018,461,24,5.38,0,0,3,7,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Karimnagar,Telangana,2018,718,35,5.0,0,3,6,7,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Peddapalli,Telangana,2018,165,24,14.83,0,11,7,2,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Jayashankar Bhupalpally,Telangana,2018,96,1,1.46,0,0,0,1,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Mulugu,Telangana,2018,124,13,10.67,0,2,4,3,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Bhadradri Kothagudem,Telangana,2018,606,57,9.44,0,23,15,14,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Khammam,Telangana,2018,796,60,7.64,0,26,7,17,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Nalgonda,Telangana,2018,137,19,13.97,0,2,5,3,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Suryapet,Telangana,2018,366,17,4.68,0,7,5,0,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+Yadadri Bhuvanagiri,Telangana,2018,739,74,10.08,0,27,12,21,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Narayanpet,Telangana,2018,484,40,8.42,0,1,12,7,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Jogulamba Gadwal,Telangana,2018,434,39,9.02,0,4,0,5,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Wanaparthy,Telangana,2018,405,37,9.36,0,2,10,2,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Mahabubnagar,Telangana,2018,249,26,10.69,0,5,10,2,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Nagarkurnool,Telangana,2018,422,48,11.43,0,21,11,0,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Nandyal,Telangana,2018,572,91,16.08,0,6,16,12,Iron,High,DataGovIn_RajyaSabha2018,2018
+West Tripura,Tripura,2018,770,16,2.11,0,1,0,4,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Sipahijala,Tripura,2018,355,31,8.94,0,3,12,9,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Khowai,Tripura,2018,590,54,9.25,0,2,7,13,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Gomati,Tripura,2018,579,75,13.08,0,1,4,1,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Unakoti,Tripura,2018,54,7,14.23,0,1,2,2,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+North Tripura,Tripura,2018,756,70,9.36,0,2,16,9,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Dhalai,Tripura,2018,325,43,13.28,0,2,16,8,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+South Tripura,Tripura,2018,682,15,2.26,0,2,3,4,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+Lucknow,Uttar Pradesh,2018,789,150,19.1,44,3,5,22,Iron,High,DataGovIn_RajyaSabha2018,2018
+Agra,Uttar Pradesh,2018,260,48,18.76,12,3,12,7,Nitrate,High,DataGovIn_RajyaSabha2018,2018
+Mathura,Uttar Pradesh,2018,572,93,16.36,11,0,28,8,Bacteriological,High,DataGovIn_RajyaSabha2018,2018
+Aligarh,Uttar Pradesh,2018,99,19,20.06,1,3,7,4,Multiple,High,DataGovIn_RajyaSabha2018,2018
+Etah,Uttar Pradesh,2018,413,49,12.05,19,3,16,7,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Hathras,Uttar Pradesh,2018,152,11,7.83,4,1,3,0,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Firozabad,Uttar Pradesh,2018,717,83,11.71,25,1,15,11,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Mainpuri,Uttar Pradesh,2018,732,50,6.87,0,2,12,12,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Kannauj,Uttar Pradesh,2018,722,75,10.43,1,0,21,3,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Farrukhabad,Uttar Pradesh,2018,306,57,18.85,5,2,11,8,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Kanpur Nagar,Uttar Pradesh,2018,206,40,19.5,12,3,12,3,Iron,High,DataGovIn_RajyaSabha2018,2018
+Kanpur Dehat,Uttar Pradesh,2018,381,66,17.45,19,2,5,7,Iron,High,DataGovIn_RajyaSabha2018,2018
+Etawah,Uttar Pradesh,2018,719,85,11.87,17,3,14,6,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Auraiya,Uttar Pradesh,2018,368,34,9.44,4,0,10,10,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Jalaun,Uttar Pradesh,2018,211,25,11.88,5,3,2,5,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Hamirpur,Uttar Pradesh,2018,191,38,20.15,5,3,7,11,Nitrate,High,DataGovIn_RajyaSabha2018,2018
+Mahoba,Uttar Pradesh,2018,371,43,11.82,11,0,7,8,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Banda,Uttar Pradesh,2018,593,90,15.25,23,2,1,20,Multiple,High,DataGovIn_RajyaSabha2018,2018
+Chitrakoot,Uttar Pradesh,2018,551,37,6.74,6,2,0,9,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Fatehpur,Uttar Pradesh,2018,794,87,11.02,18,2,14,0,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Allahabad,Uttar Pradesh,2018,333,45,13.68,3,0,3,7,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Kaushambi,Uttar Pradesh,2018,188,4,2.64,1,1,1,0,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Pratapgarh,Uttar Pradesh,2018,392,22,5.74,4,0,5,2,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Rae Bareli,Uttar Pradesh,2018,130,10,7.96,2,1,0,1,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Amethi,Uttar Pradesh,2018,394,53,13.52,6,3,15,3,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Sultanpur,Uttar Pradesh,2018,456,46,10.25,10,0,0,9,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Ambedkar Nagar,Uttar Pradesh,2018,173,25,15.0,10,0,4,1,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Faizabad,Uttar Pradesh,2018,382,19,5.12,6,0,7,4,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Barabanki,Uttar Pradesh,2018,639,100,15.67,8,3,0,8,Heavy Metals,High,DataGovIn_RajyaSabha2018,2018
+Gonda,Uttar Pradesh,2018,152,9,6.22,2,3,1,0,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Balrampur,Uttar Pradesh,2018,590,101,17.12,27,3,3,30,Heavy Metals,High,DataGovIn_RajyaSabha2018,2018
+Shravasti,Uttar Pradesh,2018,617,70,11.37,25,3,17,14,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Bahraich,Uttar Pradesh,2018,325,58,18.14,4,3,22,10,Heavy Metals,High,DataGovIn_RajyaSabha2018,2018
+Lakhimpur Kheri,Uttar Pradesh,2018,778,145,18.72,17,2,46,37,Bacteriological,High,DataGovIn_RajyaSabha2018,2018
+Sitapur,Uttar Pradesh,2018,392,66,16.89,10,2,5,16,Iron,High,DataGovIn_RajyaSabha2018,2018
+Hardoi,Uttar Pradesh,2018,331,66,19.95,3,0,25,13,Heavy Metals,High,DataGovIn_RajyaSabha2018,2018
+Unnao,Uttar Pradesh,2018,46,1,4.34,0,0,0,0,Salinity,Low,DataGovIn_RajyaSabha2018,2018
+Lucknow,Uttar Pradesh,2018,401,55,13.89,18,1,2,7,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Barabanki,Uttar Pradesh,2018,678,124,18.42,7,2,20,4,Nitrate,High,DataGovIn_RajyaSabha2018,2018
+Bara Banki,Uttar Pradesh,2018,25,1,7.91,1,0,0,1,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Varanasi,Uttar Pradesh,2018,718,26,3.66,4,2,8,6,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Chandauli,Uttar Pradesh,2018,620,83,13.53,31,1,31,22,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Jaunpur,Uttar Pradesh,2018,453,46,10.28,14,2,13,2,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Ghazipur,Uttar Pradesh,2018,152,13,8.71,4,1,2,2,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Azamgarh,Uttar Pradesh,2018,91,10,11.74,1,0,1,1,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Mau,Uttar Pradesh,2018,149,8,5.55,1,0,2,2,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Ballia,Uttar Pradesh,2018,80,7,8.92,0,0,2,0,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Deoria,Uttar Pradesh,2018,288,31,11.05,3,3,5,0,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Kushinagar,Uttar Pradesh,2018,502,47,9.43,2,3,5,12,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Gorakhpur,Uttar Pradesh,2018,378,41,10.87,10,2,11,8,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Sant Kabir Nagar,Uttar Pradesh,2018,515,22,4.33,2,0,5,1,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Basti,Uttar Pradesh,2018,543,93,17.27,29,3,35,7,Fluoride,High,DataGovIn_RajyaSabha2018,2018
+Siddharth Nagar,Uttar Pradesh,2018,421,11,2.76,1,3,0,3,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Maharajganj,Uttar Pradesh,2018,84,8,10.44,1,1,3,2,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Ghaziabad,Uttar Pradesh,2018,598,84,14.2,11,0,20,5,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Hapur,Uttar Pradesh,2018,178,22,12.71,3,3,2,0,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Bulandshahr,Uttar Pradesh,2018,354,50,14.24,18,0,20,9,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Meerut,Uttar Pradesh,2018,586,71,12.21,7,1,10,20,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Baghpat,Uttar Pradesh,2018,739,148,20.07,50,1,20,35,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Muzaffarnagar,Uttar Pradesh,2018,293,28,9.69,7,3,11,7,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Shamli,Uttar Pradesh,2018,185,31,17.11,4,1,0,9,Heavy Metals,High,DataGovIn_RajyaSabha2018,2018
+Saharanpur,Uttar Pradesh,2018,287,52,18.19,18,3,19,3,Iron,High,DataGovIn_RajyaSabha2018,2018
+Bijnor,Uttar Pradesh,2018,477,63,13.22,18,3,0,5,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Amroha,Uttar Pradesh,2018,470,14,3.08,0,2,1,4,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+Moradabad,Uttar Pradesh,2018,797,93,11.76,31,0,13,15,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Rampur,Uttar Pradesh,2018,161,20,12.76,8,1,2,1,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Bareilly,Uttar Pradesh,2018,711,114,16.05,6,1,23,25,Arsenic,High,DataGovIn_RajyaSabha2018,2018
+Pilibhit,Uttar Pradesh,2018,581,30,5.33,0,0,4,8,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Shahjahanpur,Uttar Pradesh,2018,641,109,17.16,43,3,33,32,Multiple,High,DataGovIn_RajyaSabha2018,2018
+Budaun,Uttar Pradesh,2018,377,55,14.74,22,2,21,16,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Sambhal,Uttar Pradesh,2018,209,13,6.25,4,3,0,0,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Dehradun,Uttarakhand,2018,37,1,4.62,0,2,0,1,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Haridwar,Uttarakhand,2018,606,73,12.12,0,2,3,14,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Pauri Garhwal,Uttarakhand,2018,375,44,11.86,0,1,6,13,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Tehri Garhwal,Uttarakhand,2018,43,4,11.13,0,1,1,0,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Uttarkashi,Uttarakhand,2018,330,11,3.58,0,2,4,1,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Chamoli,Uttarakhand,2018,646,75,11.7,0,0,18,13,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Rudraprayag,Uttarakhand,2018,104,3,3.74,0,3,0,0,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Pithoragarh,Uttarakhand,2018,427,6,1.63,0,1,2,0,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Almora,Uttarakhand,2018,232,7,3.05,0,3,1,1,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Bageshwar,Uttarakhand,2018,74,1,2.5,0,0,0,0,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Nainital,Uttarakhand,2018,432,10,2.36,0,1,0,0,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Udham Singh Nagar,Uttarakhand,2018,477,13,2.77,0,2,5,3,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+Champawat,Uttarakhand,2018,222,28,13.03,0,1,0,4,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Kolkata,West Bengal,2018,461,30,6.55,3,0,10,2,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+North 24 Parganas,West Bengal,2018,686,93,13.6,19,0,9,24,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+South 24 Parganas,West Bengal,2018,200,5,2.58,1,0,2,1,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Howrah,West Bengal,2018,365,48,13.36,18,2,4,2,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Hooghly,West Bengal,2018,404,12,2.98,4,1,2,2,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Nadia,West Bengal,2018,87,11,12.66,0,1,4,2,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Murshidabad,West Bengal,2018,731,69,9.44,26,0,24,3,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Birbhum,West Bengal,2018,484,13,2.83,2,1,3,2,Heavy Metals,Low,DataGovIn_RajyaSabha2018,2018
+Burdwan,West Bengal,2018,572,36,6.36,4,1,3,0,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Bankura,West Bengal,2018,96,13,13.76,1,0,1,3,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Purulia,West Bengal,2018,452,13,2.9,4,1,3,1,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+Jhargram,West Bengal,2018,304,6,2.01,2,0,1,0,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+West Midnapore,West Bengal,2018,456,61,13.39,0,3,7,4,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+East Midnapore,West Bengal,2018,308,26,8.69,1,2,5,4,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Darjeeling,West Bengal,2018,720,72,10.12,0,1,22,9,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Kalimpong,West Bengal,2018,275,5,1.98,0,2,1,1,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+Jalpaiguri,West Bengal,2018,397,28,7.16,4,0,5,7,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Alipurduar,West Bengal,2018,400,20,5.2,2,1,4,3,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Cooch Behar,West Bengal,2018,160,20,13.03,4,3,6,0,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+North Dinajpur,West Bengal,2018,65,5,9.03,0,0,0,0,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+South Dinajpur,West Bengal,2018,774,95,12.4,35,1,6,14,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Malda,West Bengal,2018,302,36,11.99,1,3,2,6,Arsenic,Moderate,DataGovIn_RajyaSabha2018,2018
+Central Delhi,Delhi,2018,577,1,0.18,0,0,1,1,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+East Delhi,Delhi,2018,171,6,3.54,0,0,1,0,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+New Delhi,Delhi,2018,106,1,1.23,0,0,1,1,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+North Delhi,Delhi,2018,272,1,0.41,0,1,1,0,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+North East Delhi,Delhi,2018,314,6,2.19,0,2,1,1,Nitrate,Low,DataGovIn_RajyaSabha2018,2018
+North West Delhi,Delhi,2018,430,4,1.11,0,1,0,0,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Shahdara,Delhi,2018,206,4,2.12,0,2,1,1,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+South Delhi,Delhi,2018,630,9,1.57,0,0,1,0,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+South East Delhi,Delhi,2018,361,4,1.25,0,1,1,0,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+South West Delhi,Delhi,2018,280,13,4.96,0,3,3,1,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+West Delhi,Delhi,2018,381,13,3.49,0,1,1,3,Arsenic,Low,DataGovIn_RajyaSabha2018,2018
+Jammu,Jammu & Kashmir,2018,52,1,2.48,0,2,1,1,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Samba,Jammu & Kashmir,2018,122,8,6.78,0,2,0,0,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Kathua,Jammu & Kashmir,2018,71,6,9.1,0,3,2,1,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Udhampur,Jammu & Kashmir,2018,278,5,2.13,0,2,2,0,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Reasi,Jammu & Kashmir,2018,752,83,11.07,0,2,0,10,Nitrate,Moderate,DataGovIn_RajyaSabha2018,2018
+Ramban,Jammu & Kashmir,2018,703,129,18.46,0,0,20,11,Arsenic,High,DataGovIn_RajyaSabha2018,2018
+Doda,Jammu & Kashmir,2018,281,33,11.88,0,0,12,9,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Kishtwar,Jammu & Kashmir,2018,682,106,15.61,0,3,25,31,Nitrate,High,DataGovIn_RajyaSabha2018,2018
+Rajouri,Jammu & Kashmir,2018,683,17,2.61,0,3,4,3,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Poonch,Jammu & Kashmir,2018,444,35,8.0,0,2,1,6,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Anantnag,Jammu & Kashmir,2018,121,4,4.02,0,3,1,0,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+Kulgam,Jammu & Kashmir,2018,511,57,11.21,0,1,7,5,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Pulwama,Jammu & Kashmir,2018,467,21,4.61,0,2,1,4,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+Shopian,Jammu & Kashmir,2018,35,0,2.64,0,2,0,1,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Budgam,Jammu & Kashmir,2018,46,2,5.14,0,0,1,0,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Srinagar,Jammu & Kashmir,2018,111,9,8.48,0,1,0,2,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Ganderbal,Jammu & Kashmir,2018,117,18,15.94,0,0,3,2,Multiple,High,DataGovIn_RajyaSabha2018,2018
+Bandipora,Jammu & Kashmir,2018,170,28,16.76,0,0,7,0,Salinity,High,DataGovIn_RajyaSabha2018,2018
+Baramulla,Jammu & Kashmir,2018,697,70,10.14,0,0,17,12,Salinity,Moderate,DataGovIn_RajyaSabha2018,2018
+Kupwara,Jammu & Kashmir,2018,331,35,10.6,0,1,12,1,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+Leh,Ladakh,2018,384,44,11.67,0,1,14,8,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+Kargil,Ladakh,2018,468,91,19.47,0,1,3,25,Arsenic,High,DataGovIn_RajyaSabha2018,2018
+Puducherry,Puducherry,2018,285,12,4.3,0,3,3,2,Multiple,Low,DataGovIn_RajyaSabha2018,2018
+Karaikal,Puducherry,2018,702,6,0.99,0,1,0,1,Fluoride,Low,DataGovIn_RajyaSabha2018,2018
+Mahé,Puducherry,2018,326,15,4.71,0,0,6,0,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Yanam,Puducherry,2018,543,37,6.89,0,2,12,2,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Chandigarh,Chandigarh,2018,593,31,5.34,0,1,7,6,Multiple,Moderate,DataGovIn_RajyaSabha2018,2018
+North & Middle Andaman,Andaman & Nicobar,2018,700,64,9.26,0,2,1,18,Heavy Metals,Moderate,DataGovIn_RajyaSabha2018,2018
+South Andaman,Andaman & Nicobar,2018,254,26,10.27,0,2,1,6,Fluoride,Moderate,DataGovIn_RajyaSabha2018,2018
+Nicobar,Andaman & Nicobar,2018,383,25,6.55,0,3,8,3,Iron,Moderate,DataGovIn_RajyaSabha2018,2018
+Dadra & Nagar Haveli,Dadra & Nagar Haveli and Daman & Diu,2018,519,18,3.55,0,1,5,5,Bacteriological,Low,DataGovIn_RajyaSabha2018,2018
+Daman,Dadra & Nagar Haveli and Daman & Diu,2018,382,6,1.74,0,3,2,1,Iron,Low,DataGovIn_RajyaSabha2018,2018
+Diu,Dadra & Nagar Haveli and Daman & Diu,2018,319,22,7.18,0,3,4,6,Bacteriological,Moderate,DataGovIn_RajyaSabha2018,2018
+Lakshadweep,Lakshadweep,2018,412,16,4.08,0,2,4,3,Arsenic,Low,DataGovIn_RajyaSabha2018,2018

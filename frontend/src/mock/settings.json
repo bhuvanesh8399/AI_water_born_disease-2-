@@ -1,0 +1,8 @@
+﻿{
+  "values": {
+    "data_mode": "api",
+    "refresh_interval_seconds": "60",
+    "alert_threshold": "65",
+    "default_district": "D001"
+  }
+}

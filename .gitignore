@@ -1,0 +1,11 @@
+node_modules
+.venv/
+backend/.venv/
+frontend/node_modules/
+frontend/dist/
+_zip_inspect/
+.pytest_cache/
+test_ews.db
+backend/ews.db
+backend/test_ews.db
+*.pyc

@@ -1,0 +1,38 @@
+{
+  "district": "Demo District",
+  "updatedAt": "2026-02-06T08:30:00.000Z",
+  "riskScore": 74,
+  "riskLevel": "HIGH",
+  "confidence": 0.83,
+  "topReasons": [
+    "Diarrhea cases increased 2 weeks continuously",
+    "Rainfall spike detected in last 7 days",
+    "Water complaints increased in 3 nearby villages"
+  ],
+  "hotspots": [
+    {
+      "areaId": "VIL_A",
+      "name": "Village A",
+      "riskScore": 88,
+      "riskLevel": "CRITICAL",
+      "lat": 11.0168,
+      "lng": 76.9558
+    },
+    {
+      "areaId": "VIL_B",
+      "name": "Village B",
+      "riskScore": 79,
+      "riskLevel": "HIGH",
+      "lat": 11.0268,
+      "lng": 76.9658
+    },
+    {
+      "areaId": "VIL_C",
+      "name": "Village C",
+      "riskScore": 66,
+      "riskLevel": "MEDIUM",
+      "lat": 11.0068,
+      "lng": 76.9458
+    }
+  ]
+}

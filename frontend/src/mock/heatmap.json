@@ -1,0 +1,8 @@
+﻿{
+  "items": [
+    { "district_code": "D001", "district_name": "Chennai", "latitude": 13.0827, "longitude": 80.2707, "risk_score": 76, "risk_level": "critical", "confidence_score": 0.92 },
+    { "district_code": "D002", "district_name": "Madurai", "latitude": 9.9252, "longitude": 78.1198, "risk_score": 68, "risk_level": "high", "confidence_score": 0.86 },
+    { "district_code": "D003", "district_name": "Coimbatore", "latitude": 11.0168, "longitude": 76.9558, "risk_score": 51, "risk_level": "high", "confidence_score": 0.8 },
+    { "district_code": "D004", "district_name": "Salem", "latitude": 11.6643, "longitude": 78.146, "risk_score": 34, "risk_level": "medium", "confidence_score": 0.74 }
+  ]
+}

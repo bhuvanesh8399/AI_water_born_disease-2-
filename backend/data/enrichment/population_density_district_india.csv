@@ -1,0 +1,736 @@
+district_name,state_name,year,population_total,area_sq_km,population_density_per_sq_km,population_density_category,source_name,source_year
+Srikakulam,Andhra Pradesh,2011,447939,937.7,477.7,High,Census2011_PCA,2011
+Vizianagaram,Andhra Pradesh,2011,364777,1021.5,357.1,Medium,Census2011_PCA,2011
+Visakhapatnam,Andhra Pradesh,2011,2653289,10812.1,245.4,Medium,Census2011_PCA,2011
+East Godavari,Andhra Pradesh,2011,4178682,6390.4,653.9,High,Census2011_PCA,2011
+West Godavari,Andhra Pradesh,2011,7371154,17529.5,420.5,High,Census2011_PCA,2011
+Krishna,Andhra Pradesh,2011,668916,1301.9,513.8,High,Census2011_PCA,2011
+Guntur,Andhra Pradesh,2011,3274315,6884.6,475.6,High,Census2011_PCA,2011
+Prakasam,Andhra Pradesh,2011,2891940,13259.7,218.1,Medium,Census2011_PCA,2011
+Nellore,Andhra Pradesh,2011,8314240,14080.0,590.5,High,Census2011_PCA,2011
+Kadapa,Andhra Pradesh,2011,3658802,6006.9,609.1,High,Census2011_PCA,2011
+Kurnool,Andhra Pradesh,2011,2214571,5098.0,434.4,High,Census2011_PCA,2011
+Anantapur,Andhra Pradesh,2011,229933,1324.5,173.6,Medium,Census2011_PCA,2011
+Chittoor,Andhra Pradesh,2011,6591566,9759.5,675.4,High,Census2011_PCA,2011
+YSR Kadapa,Andhra Pradesh,2011,3176424,11716.8,271.1,Medium,Census2011_PCA,2011
+Eluru,Andhra Pradesh,2011,1453098,3626.4,400.7,High,Census2011_PCA,2011
+Bapatla,Andhra Pradesh,2011,5425754,9939.1,545.9,High,Census2011_PCA,2011
+Parvathipuram Manyam,Andhra Pradesh,2011,9189022,15054.1,610.4,High,Census2011_PCA,2011
+Anakapalli,Andhra Pradesh,2011,2231776,13810.5,161.6,Medium,Census2011_PCA,2011
+Alluri Sitharama Raju,Andhra Pradesh,2011,1505085,4206.5,357.8,Medium,Census2011_PCA,2011
+Kakinada,Andhra Pradesh,2011,3499037,9557.6,366.1,Medium,Census2011_PCA,2011
+Konaseema,Andhra Pradesh,2011,1877103,11544.3,162.6,Medium,Census2011_PCA,2011
+Nandyal,Andhra Pradesh,2011,681351,2815.5,242.0,Medium,Census2011_PCA,2011
+Sri Sathya Sai,Andhra Pradesh,2011,1422877,8043.4,176.9,Medium,Census2011_PCA,2011
+Tirupati,Andhra Pradesh,2011,2230053,6437.8,346.4,Medium,Census2011_PCA,2011
+Annamayya,Andhra Pradesh,2011,4359163,16657.1,261.7,Medium,Census2011_PCA,2011
+Tawang,Arunachal Pradesh,2011,609966,16711.4,36.5,Low,Census2011_PCA,2011
+West Kameng,Arunachal Pradesh,2011,326469,17742.9,18.4,Low,Census2011_PCA,2011
+East Kameng,Arunachal Pradesh,2011,311115,13072.1,23.8,Low,Census2011_PCA,2011
+Papum Pare,Arunachal Pradesh,2011,91146,10723.1,8.5,Low,Census2011_PCA,2011
+Kurung Kumey,Arunachal Pradesh,2011,307905,12316.2,25.0,Low,Census2011_PCA,2011
+Kra Daadi,Arunachal Pradesh,2011,210000,10714.3,19.6,Low,Census2011_PCA,2011
+Lower Subansiri,Arunachal Pradesh,2011,157547,5749.9,27.4,Low,Census2011_PCA,2011
+Upper Subansiri,Arunachal Pradesh,2011,50000,4230.2,9.0,Low,Census2011_PCA,2011
+West Siang,Arunachal Pradesh,2011,413824,12811.9,32.3,Low,Census2011_PCA,2011
+East Siang,Arunachal Pradesh,2011,458838,16931.3,27.1,Low,Census2011_PCA,2011
+Siang,Arunachal Pradesh,2011,117014,4063.0,28.8,Low,Census2011_PCA,2011
+Upper Siang,Arunachal Pradesh,2011,105769,5341.9,19.8,Low,Census2011_PCA,2011
+Dibang Valley,Arunachal Pradesh,2011,50000,669.2,19.9,Low,Census2011_PCA,2011
+Lower Dibang Valley,Arunachal Pradesh,2011,50000,2730.3,11.3,Low,Census2011_PCA,2011
+Anjaw,Arunachal Pradesh,2011,50000,2298.9,14.4,Low,Census2011_PCA,2011
+Lohit,Arunachal Pradesh,2011,585533,17583.6,33.3,Low,Census2011_PCA,2011
+Namsai,Arunachal Pradesh,2011,488940,15621.1,31.3,Low,Census2011_PCA,2011
+Changlang,Arunachal Pradesh,2011,201148,14790.3,13.6,Low,Census2011_PCA,2011
+Tirap,Arunachal Pradesh,2011,262520,15626.2,16.8,Low,Census2011_PCA,2011
+Longding,Arunachal Pradesh,2011,89406,2518.5,35.5,Low,Census2011_PCA,2011
+Pakke Kessang,Arunachal Pradesh,2011,174291,5989.4,29.1,Low,Census2011_PCA,2011
+Lepa Rada,Arunachal Pradesh,2011,115213,16697.6,6.9,Low,Census2011_PCA,2011
+Shi Yomi,Arunachal Pradesh,2011,170147,6278.5,27.1,Low,Census2011_PCA,2011
+Kamle,Arunachal Pradesh,2011,108373,5674.0,19.1,Low,Census2011_PCA,2011
+Kamrup,Assam,2011,3772239,10088.9,373.9,Medium,Census2011_PCA,2011
+Kamrup Metropolitan,Assam,2011,2013057,4239.8,474.8,High,Census2011_PCA,2011
+Sonitpur,Assam,2011,3890140,6365.8,611.1,High,Census2011_PCA,2011
+Lakhimpur,Assam,2011,2942413,8814.9,333.8,Medium,Census2011_PCA,2011
+Dibrugarh,Assam,2011,2442563,4769.7,512.1,High,Census2011_PCA,2011
+Sivasagar,Assam,2011,4911721,17264.4,284.5,Medium,Census2011_PCA,2011
+Jorhat,Assam,2011,11311452,17788.1,635.9,High,Census2011_PCA,2011
+Golaghat,Assam,2011,7589051,10087.8,752.3,High,Census2011_PCA,2011
+Nagaon,Assam,2011,6794588,9622.7,706.1,High,Census2011_PCA,2011
+Morigaon,Assam,2011,1591633,2921.5,544.8,High,Census2011_PCA,2011
+Hojai,Assam,2011,1878125,4119.6,455.9,High,Census2011_PCA,2011
+Darrang,Assam,2011,259737,603.2,430.6,High,Census2011_PCA,2011
+Udalguri,Assam,2011,6071343,11056.9,549.1,High,Census2011_PCA,2011
+Bongaigaon,Assam,2011,1516941,3388.3,447.7,High,Census2011_PCA,2011
+Chirang,Assam,2011,2093511,11748.1,178.2,Medium,Census2011_PCA,2011
+Barpeta,Assam,2011,5014267,7134.7,702.8,High,Census2011_PCA,2011
+Nalbari,Assam,2011,5785001,6624.3,873.3,High,Census2011_PCA,2011
+Baksa,Assam,2011,549105,3166.7,173.4,Medium,Census2011_PCA,2011
+Dhubri,Assam,2011,3101039,11126.8,278.7,Medium,Census2011_PCA,2011
+South Salmara-Mankachar,Assam,2011,4715369,12353.6,381.7,Medium,Census2011_PCA,2011
+Kokrajhar,Assam,2011,3246661,14018.4,231.6,Medium,Census2011_PCA,2011
+Goalpara,Assam,2011,3247326,6985.0,464.9,High,Census2011_PCA,2011
+Cachar,Assam,2011,9196471,15002.4,613.0,High,Census2011_PCA,2011
+Hailakandi,Assam,2011,4869516,8961.2,543.4,High,Census2011_PCA,2011
+Karimganj,Assam,2011,3760682,4767.6,788.8,High,Census2011_PCA,2011
+Dima Hasao,Assam,2011,4489035,14462.1,310.4,Medium,Census2011_PCA,2011
+Karbi Anglong,Assam,2011,2882286,13101.3,220.0,Medium,Census2011_PCA,2011
+West Karbi Anglong,Assam,2011,986340,4377.9,225.3,Medium,Census2011_PCA,2011
+Majuli,Assam,2011,4350591,6288.8,691.8,High,Census2011_PCA,2011
+Biswanath,Assam,2011,7496207,13838.3,541.7,High,Census2011_PCA,2011
+Charaideo,Assam,2011,815571,2259.2,361.0,Medium,Census2011_PCA,2011
+Patna,Bihar,2011,15000000,10183.8,2373.4,Very High,Census2011_PCA,2011
+Nalanda,Bihar,2011,11260829,8208.2,1371.9,Very High,Census2011_PCA,2011
+Bhojpur,Bihar,2011,6767541,11515.3,587.7,High,Census2011_PCA,2011
+Buxar,Bihar,2011,15000000,11110.6,1957.2,Very High,Census2011_PCA,2011
+Rohtas,Bihar,2011,14052963,5844.2,2404.6,Very High,Census2011_PCA,2011
+Kaimur,Bihar,2011,5687473,3248.5,1750.8,Very High,Census2011_PCA,2011
+Gaya,Bihar,2011,11584530,12871.7,900.0,High,Census2011_PCA,2011
+Jehanabad,Bihar,2011,15000000,16839.2,1752.3,Very High,Census2011_PCA,2011
+Aurangabad,Bihar,2011,4529475,5883.2,769.9,High,Census2011_PCA,2011
+Nawada,Bihar,2011,15000000,9258.3,2310.7,Very High,Census2011_PCA,2011
+Arwal,Bihar,2011,10781374,17333.4,622.0,High,Census2011_PCA,2011
+Vaishali,Bihar,2011,7150284,13734.7,520.6,High,Census2011_PCA,2011
+Saran,Bihar,2011,2969346,2096.7,1416.2,Very High,Census2011_PCA,2011
+Siwan,Bihar,2011,15000000,17040.9,1012.5,Very High,Census2011_PCA,2011
+Gopalganj,Bihar,2011,11810459,9505.4,1242.5,Very High,Census2011_PCA,2011
+Muzaffarpur,Bihar,2011,15000000,11444.7,1941.3,Very High,Census2011_PCA,2011
+Sitamarhi,Bihar,2011,11950269,17530.1,681.7,High,Census2011_PCA,2011
+Sheohar,Bihar,2011,15000000,16476.3,2409.0,Very High,Census2011_PCA,2011
+Madhubani,Bihar,2011,14853890,15107.7,983.2,High,Census2011_PCA,2011
+Darbhanga,Bihar,2011,15000000,15620.5,2185.0,Very High,Census2011_PCA,2011
+Samastipur,Bihar,2011,5735004,5724.7,1001.8,Very High,Census2011_PCA,2011
+Begusarai,Bihar,2011,15000000,10010.0,1535.6,Very High,Census2011_PCA,2011
+Khagaria,Bihar,2011,2501312,1263.8,1979.2,Very High,Census2011_PCA,2011
+Bhagalpur,Bihar,2011,15000000,9168.3,2386.4,Very High,Census2011_PCA,2011
+Banka,Bihar,2011,12609210,8496.2,1484.1,Very High,Census2011_PCA,2011
+Munger,Bihar,2011,14041046,12622.3,1112.4,Very High,Census2011_PCA,2011
+Lakhisarai,Bihar,2011,15000000,13789.5,1866.4,Very High,Census2011_PCA,2011
+Sheikhpura,Bihar,2011,15000000,8094.5,1922.1,Very High,Census2011_PCA,2011
+Jamui,Bihar,2011,7678090,14432.5,532.0,High,Census2011_PCA,2011
+Supaul,Bihar,2011,1464118,1881.9,778.0,High,Census2011_PCA,2011
+Madhepura,Bihar,2011,4692961,4968.2,944.6,High,Census2011_PCA,2011
+Saharsa,Bihar,2011,12144329,10782.5,1126.3,Very High,Census2011_PCA,2011
+Purnea,Bihar,2011,6508284,4651.1,1399.3,Very High,Census2011_PCA,2011
+Kishanganj,Bihar,2011,10250864,10403.8,985.3,High,Census2011_PCA,2011
+Araria,Bihar,2011,14603180,14480.1,1008.5,Very High,Census2011_PCA,2011
+Katihar,Bihar,2011,15000000,15170.9,1748.4,Very High,Census2011_PCA,2011
+West Champaran,Bihar,2011,3933367,2077.3,1893.5,Very High,Census2011_PCA,2011
+East Champaran,Bihar,2011,15000000,16486.0,1493.8,Very High,Census2011_PCA,2011
+Raipur,Chhattisgarh,2011,479957,2515.5,190.8,Medium,Census2011_PCA,2011
+Durg,Chhattisgarh,2011,5900647,14580.3,404.7,High,Census2011_PCA,2011
+Bilaspur,Chhattisgarh,2011,3265078,10729.8,304.3,Medium,Census2011_PCA,2011
+Korba,Chhattisgarh,2011,4403432,16517.0,266.6,Medium,Census2011_PCA,2011
+Rajnandgaon,Chhattisgarh,2011,2101742,17059.6,123.2,Low,Census2011_PCA,2011
+Raigarh,Chhattisgarh,2011,4101468,13505.0,303.7,Medium,Census2011_PCA,2011
+Janjgir-Champa,Chhattisgarh,2011,1850128,7642.0,242.1,Medium,Census2011_PCA,2011
+Surguja,Chhattisgarh,2011,1367434,12499.4,109.4,Low,Census2011_PCA,2011
+Korea,Chhattisgarh,2011,3079412,8457.6,364.1,Medium,Census2011_PCA,2011
+Jashpur,Chhattisgarh,2011,1229003,10380.1,118.4,Low,Census2011_PCA,2011
+Kanker,Chhattisgarh,2011,2045419,16259.3,125.8,Low,Census2011_PCA,2011
+Kondagaon,Chhattisgarh,2011,285835,951.2,300.5,Medium,Census2011_PCA,2011
+Narayanpur,Chhattisgarh,2011,3182761,9706.5,327.9,Medium,Census2011_PCA,2011
+Bastar,Chhattisgarh,2011,500035,1258.9,397.2,Medium,Census2011_PCA,2011
+Dantewada,Chhattisgarh,2011,1795499,7528.3,238.5,Medium,Census2011_PCA,2011
+Sukma,Chhattisgarh,2011,520123,5312.8,97.9,Low,Census2011_PCA,2011
+Bijapur,Chhattisgarh,2011,629544,2235.6,281.6,Medium,Census2011_PCA,2011
+Bemetara,Chhattisgarh,2011,1031079,4498.6,229.2,Medium,Census2011_PCA,2011
+Mungeli,Chhattisgarh,2011,643436,3171.2,202.9,Medium,Census2011_PCA,2011
+Balod,Chhattisgarh,2011,3601200,10236.5,351.8,Medium,Census2011_PCA,2011
+Gariaband,Chhattisgarh,2011,5190781,15691.6,330.8,Medium,Census2011_PCA,2011
+Mahasamund,Chhattisgarh,2011,1322865,4424.3,299.0,Medium,Census2011_PCA,2011
+Dhamtari,Chhattisgarh,2011,6374075,17554.6,363.1,Medium,Census2011_PCA,2011
+Baloda Bazar,Chhattisgarh,2011,609306,3657.3,166.6,Medium,Census2011_PCA,2011
+Kawardha,Chhattisgarh,2011,632055,2982.8,211.9,Medium,Census2011_PCA,2011
+Gaurela-Pendra-Marwahi,Chhattisgarh,2011,2645271,13127.9,201.5,Medium,Census2011_PCA,2011
+Sarangarh-Bilaigarh,Chhattisgarh,2011,1604322,5261.8,304.9,Medium,Census2011_PCA,2011
+Manendragarh,Chhattisgarh,2011,1210863,5456.8,221.9,Medium,Census2011_PCA,2011
+Shakti,Chhattisgarh,2011,451589,5774.8,78.2,Low,Census2011_PCA,2011
+Khairagarh,Chhattisgarh,2011,968597,7153.6,135.4,Low,Census2011_PCA,2011
+Mohla-Manpur-Ambagarh Chowki,Chhattisgarh,2011,74520,828.0,90.0,Low,Census2011_PCA,2011
+North Goa,Goa,2011,206994,865.0,239.3,Medium,Census2011_PCA,2011
+South Goa,Goa,2011,3599427,4758.0,756.5,High,Census2011_PCA,2011
+Ahmedabad,Gujarat,2011,2041409,9433.5,216.4,Medium,Census2011_PCA,2011
+Surat,Gujarat,2011,6239646,17062.2,365.7,Medium,Census2011_PCA,2011
+Vadodara,Gujarat,2011,4066586,6937.2,586.2,High,Census2011_PCA,2011
+Rajkot,Gujarat,2011,7334046,15624.3,469.4,High,Census2011_PCA,2011
+Bhavnagar,Gujarat,2011,1447087,9378.4,154.3,Medium,Census2011_PCA,2011
+Jamnagar,Gujarat,2011,6728277,11262.6,597.4,High,Census2011_PCA,2011
+Junagadh,Gujarat,2011,6813299,11907.2,572.2,High,Census2011_PCA,2011
+Gandhinagar,Gujarat,2011,4076956,13000.5,313.6,Medium,Census2011_PCA,2011
+Anand,Gujarat,2011,1483658,7024.9,211.2,Medium,Census2011_PCA,2011
+Kheda,Gujarat,2011,343977,2153.9,159.7,Medium,Census2011_PCA,2011
+Mehsana,Gujarat,2011,3294953,10697.9,308.0,Medium,Census2011_PCA,2011
+Banaskantha,Gujarat,2011,3806264,5917.7,643.2,High,Census2011_PCA,2011
+Sabarkantha,Gujarat,2011,4887028,9711.9,503.2,High,Census2011_PCA,2011
+Aravalli,Gujarat,2011,5843691,9009.7,648.6,High,Census2011_PCA,2011
+Mahisagar,Gujarat,2011,1333925,6940.3,192.2,Medium,Census2011_PCA,2011
+Panchmahal,Gujarat,2011,8174012,13994.2,584.1,High,Census2011_PCA,2011
+Dahod,Gujarat,2011,2027150,5486.2,369.5,Medium,Census2011_PCA,2011
+Vadodara,Gujarat,2011,4066586,6937.2,586.2,High,Census2011_PCA,2011
+Narmada,Gujarat,2011,9748820,14795.6,658.9,High,Census2011_PCA,2011
+Bharuch,Gujarat,2011,2756088,15303.1,180.1,Medium,Census2011_PCA,2011
+Surat,Gujarat,2011,6239646,17062.2,365.7,Medium,Census2011_PCA,2011
+Navsari,Gujarat,2011,4545876,17904.2,253.9,Medium,Census2011_PCA,2011
+Valsad,Gujarat,2011,1101319,5520.4,199.5,Medium,Census2011_PCA,2011
+Dang,Gujarat,2011,831940,4978.7,167.1,Medium,Census2011_PCA,2011
+Tapi,Gujarat,2011,387591,1335.6,290.2,Medium,Census2011_PCA,2011
+Botad,Gujarat,2011,1259376,9519.1,132.3,Low,Census2011_PCA,2011
+Amreli,Gujarat,2011,982115,1998.2,491.5,High,Census2011_PCA,2011
+Gir Somnath,Gujarat,2011,2964697,8727.4,339.7,Medium,Census2011_PCA,2011
+Porbandar,Gujarat,2011,6086337,11494.5,529.5,High,Census2011_PCA,2011
+Devbhumi Dwarka,Gujarat,2011,3113940,14135.0,220.3,Medium,Census2011_PCA,2011
+Morbi,Gujarat,2011,2123906,5635.2,376.9,Medium,Census2011_PCA,2011
+Chhota Udaipur,Gujarat,2011,2093071,4933.0,424.3,High,Census2011_PCA,2011
+Mahisagar,Gujarat,2011,1333925,6940.3,192.2,Medium,Census2011_PCA,2011
+Ambala,Haryana,2011,12378149,16675.4,742.3,High,Census2011_PCA,2011
+Yamuna Nagar,Haryana,2011,4846766,6121.2,791.8,High,Census2011_PCA,2011
+Kurukshetra,Haryana,2011,734542,1241.2,591.8,High,Census2011_PCA,2011
+Kaithal,Haryana,2011,3573882,11656.5,306.6,Medium,Census2011_PCA,2011
+Karnal,Haryana,2011,1147815,1109.0,1035.0,Very High,Census2011_PCA,2011
+Panipat,Haryana,2011,15000000,17104.4,929.6,High,Census2011_PCA,2011
+Sonipat,Haryana,2011,1209395,2485.4,486.6,High,Census2011_PCA,2011
+Rohtak,Haryana,2011,12367147,17936.4,689.5,High,Census2011_PCA,2011
+Jhajjar,Haryana,2011,9583375,8289.4,1156.1,Very High,Census2011_PCA,2011
+Fatehabad,Haryana,2011,12691899,16098.3,788.4,High,Census2011_PCA,2011
+Hisar,Haryana,2011,1423695,4017.2,354.4,Medium,Census2011_PCA,2011
+Bhiwani,Haryana,2011,8947103,11209.1,798.2,High,Census2011_PCA,2011
+Charkhi Dadri,Haryana,2011,1930983,1790.6,1078.4,Very High,Census2011_PCA,2011
+Mahendragarh,Haryana,2011,12094077,11696.4,1034.0,Very High,Census2011_PCA,2011
+Rewari,Haryana,2011,1308640,3381.5,387.0,Medium,Census2011_PCA,2011
+Gurugram,Haryana,2011,5663903,11613.5,487.7,High,Census2011_PCA,2011
+Faridabad,Haryana,2011,3839359,3198.4,1200.4,Very High,Census2011_PCA,2011
+Palwal,Haryana,2011,334912,1295.6,258.5,Medium,Census2011_PCA,2011
+Nuh,Haryana,2011,8525074,11475.4,742.9,High,Census2011_PCA,2011
+Panchkula,Haryana,2011,471518,1548.5,304.5,Medium,Census2011_PCA,2011
+Sirsa,Haryana,2011,15000000,15563.6,986.5,High,Census2011_PCA,2011
+Shimla,Himachal Pradesh,2011,524504,4838.6,108.4,Low,Census2011_PCA,2011
+Mandi,Himachal Pradesh,2011,527066,6230.1,84.6,Low,Census2011_PCA,2011
+Kangra,Himachal Pradesh,2011,106408,905.6,117.5,Low,Census2011_PCA,2011
+Solan,Himachal Pradesh,2011,2531414,15940.9,158.8,Medium,Census2011_PCA,2011
+Una,Himachal Pradesh,2011,2916335,13867.5,210.3,Medium,Census2011_PCA,2011
+Hamirpur,Himachal Pradesh,2011,2231437,13877.1,160.8,Medium,Census2011_PCA,2011
+Bilaspur,Himachal Pradesh,2011,1448936,6434.0,225.2,Medium,Census2011_PCA,2011
+Chamba,Himachal Pradesh,2011,503091,6328.2,79.5,Low,Census2011_PCA,2011
+Kullu,Himachal Pradesh,2011,1519610,17835.8,85.2,Low,Census2011_PCA,2011
+Lahaul & Spiti,Himachal Pradesh,2011,1708059,14775.6,115.6,Low,Census2011_PCA,2011
+Kinnaur,Himachal Pradesh,2011,194709,966.3,201.5,Medium,Census2011_PCA,2011
+Sirmaur,Himachal Pradesh,2011,621545,3484.0,178.4,Medium,Census2011_PCA,2011
+Ranchi,Jharkhand,2011,2113515,2423.2,872.2,High,Census2011_PCA,2011
+Dhanbad,Jharkhand,2011,13433393,15774.3,851.6,High,Census2011_PCA,2011
+Bokaro,Jharkhand,2011,3338018,5990.7,557.2,High,Census2011_PCA,2011
+Giridih,Jharkhand,2011,8148285,12633.0,645.0,High,Census2011_PCA,2011
+Hazaribagh,Jharkhand,2011,2153014,5557.6,387.4,Medium,Census2011_PCA,2011
+Koderma,Jharkhand,2011,972556,2632.8,369.4,Medium,Census2011_PCA,2011
+Chatra,Jharkhand,2011,2113797,5533.5,382.0,Medium,Census2011_PCA,2011
+Latehar,Jharkhand,2011,9539736,16827.9,566.9,High,Census2011_PCA,2011
+Lohardaga,Jharkhand,2011,6547003,11664.0,561.3,High,Census2011_PCA,2011
+Gumla,Jharkhand,2011,9648271,16759.2,575.7,High,Census2011_PCA,2011
+Simdega,Jharkhand,2011,4779115,11803.2,404.9,High,Census2011_PCA,2011
+West Singhbhum,Jharkhand,2011,3015161,3563.6,846.1,High,Census2011_PCA,2011
+East Singhbhum,Jharkhand,2011,14972492,17337.3,863.6,High,Census2011_PCA,2011
+Seraikela Kharsawan,Jharkhand,2011,6726534,17809.2,377.7,Medium,Census2011_PCA,2011
+Khunti,Jharkhand,2011,834228,3343.6,249.5,Medium,Census2011_PCA,2011
+Ramgarh,Jharkhand,2011,2606618,3571.2,729.9,High,Census2011_PCA,2011
+Deoghar,Jharkhand,2011,897980,2960.7,303.3,Medium,Census2011_PCA,2011
+Jamtara,Jharkhand,2011,5136546,13150.4,390.6,Medium,Census2011_PCA,2011
+Dumka,Jharkhand,2011,4346850,9294.1,467.7,High,Census2011_PCA,2011
+Godda,Jharkhand,2011,2703181,4334.8,623.6,High,Census2011_PCA,2011
+Sahibganj,Jharkhand,2011,5116758,9906.6,516.5,High,Census2011_PCA,2011
+Pakur,Jharkhand,2011,6388726,12815.9,498.5,High,Census2011_PCA,2011
+Bengaluru Urban,Karnataka,2011,1333312,6242.1,213.6,Medium,Census2011_PCA,2011
+Bengaluru Rural,Karnataka,2011,4993579,8435.1,592.0,High,Census2011_PCA,2011
+Ramanagara,Karnataka,2011,5249704,14787.9,355.0,Medium,Census2011_PCA,2011
+Tumkur,Karnataka,2011,1134320,1707.8,664.2,High,Census2011_PCA,2011
+Kolar,Karnataka,2011,3916365,7856.3,498.5,High,Census2011_PCA,2011
+Chikkaballapura,Karnataka,2011,5044427,9937.8,507.6,High,Census2011_PCA,2011
+Chitradurga,Karnataka,2011,143284,560.8,255.5,Medium,Census2011_PCA,2011
+Davanagere,Karnataka,2011,1768638,6557.8,269.7,Medium,Census2011_PCA,2011
+Shivamogga,Karnataka,2011,9060534,15965.7,567.5,High,Census2011_PCA,2011
+Chikkamagaluru,Karnataka,2011,2092952,13459.5,155.5,Medium,Census2011_PCA,2011
+Hassan,Karnataka,2011,4339799,14776.3,293.7,Medium,Census2011_PCA,2011
+Kodagu,Karnataka,2011,2530071,12053.7,209.9,Medium,Census2011_PCA,2011
+Mysuru,Karnataka,2011,3884312,7976.0,487.0,High,Census2011_PCA,2011
+Mandya,Karnataka,2011,1140913,3111.3,366.7,Medium,Census2011_PCA,2011
+Chamarajanagar,Karnataka,2011,9744672,16508.0,590.3,High,Census2011_PCA,2011
+Dharwad,Karnataka,2011,8301197,16639.0,498.9,High,Census2011_PCA,2011
+Belagavi,Karnataka,2011,7480543,15788.4,473.8,High,Census2011_PCA,2011
+Vijayapura,Karnataka,2011,5498598,17247.8,318.8,Medium,Census2011_PCA,2011
+Bagalkot,Karnataka,2011,2956451,11077.0,266.9,Medium,Census2011_PCA,2011
+Gadag,Karnataka,2011,1695310,5077.3,333.9,Medium,Census2011_PCA,2011
+Haveri,Karnataka,2011,4559911,6987.3,652.6,High,Census2011_PCA,2011
+Uttara Kannada,Karnataka,2011,3592276,7807.6,460.1,High,Census2011_PCA,2011
+Udupi,Karnataka,2011,2605666,5003.2,520.8,High,Census2011_PCA,2011
+Dakshina Kannada,Karnataka,2011,2946116,13105.5,224.8,Medium,Census2011_PCA,2011
+Ballari,Karnataka,2011,10459643,17040.8,613.8,High,Census2011_PCA,2011
+Raichur,Karnataka,2011,1241719,9350.3,132.8,Low,Census2011_PCA,2011
+Koppal,Karnataka,2011,1334209,10153.8,131.4,Low,Census2011_PCA,2011
+Yadgir,Karnataka,2011,7517225,14607.9,514.6,High,Census2011_PCA,2011
+Kalaburagi,Karnataka,2011,3084653,5178.2,595.7,High,Census2011_PCA,2011
+Bidar,Karnataka,2011,7981739,15337.7,520.4,High,Census2011_PCA,2011
+Thiruvananthapuram,Kerala,2011,286720,665.4,430.9,High,Census2011_PCA,2011
+Kollam,Kerala,2011,4789560,9742.8,491.6,High,Census2011_PCA,2011
+Pathanamthitta,Kerala,2011,7665914,16697.7,459.1,High,Census2011_PCA,2011
+Alappuzha,Kerala,2011,15000000,13664.5,1252.7,Very High,Census2011_PCA,2011
+Kottayam,Kerala,2011,15000000,16189.2,946.4,High,Census2011_PCA,2011
+Idukki,Kerala,2011,2666756,1439.7,1852.3,Very High,Census2011_PCA,2011
+Ernakulam,Kerala,2011,1569863,1018.4,1541.5,Very High,Census2011_PCA,2011
+Thrissur,Kerala,2011,15000000,12061.8,1396.2,Very High,Census2011_PCA,2011
+Palakkad,Kerala,2011,15000000,11593.3,1445.7,Very High,Census2011_PCA,2011
+Malappuram,Kerala,2011,2146874,2818.9,761.6,High,Census2011_PCA,2011
+Kozhikode,Kerala,2011,5352406,10965.8,488.1,High,Census2011_PCA,2011
+Wayanad,Kerala,2011,15000000,17618.0,1745.3,Very High,Census2011_PCA,2011
+Kannur,Kerala,2011,3582394,8106.8,441.9,High,Census2011_PCA,2011
+Kasaragod,Kerala,2011,4954396,3922.1,1263.2,Very High,Census2011_PCA,2011
+Bhopal,Madhya Pradesh,2011,1490291,6357.9,234.4,Medium,Census2011_PCA,2011
+Indore,Madhya Pradesh,2011,1077876,5998.2,179.7,Medium,Census2011_PCA,2011
+Jabalpur,Madhya Pradesh,2011,1397789,7081.0,197.4,Medium,Census2011_PCA,2011
+Gwalior,Madhya Pradesh,2011,3888652,10126.7,384.0,Medium,Census2011_PCA,2011
+Ujjain,Madhya Pradesh,2011,6379735,14424.0,442.3,High,Census2011_PCA,2011
+Sagar,Madhya Pradesh,2011,770874,1794.4,429.6,High,Census2011_PCA,2011
+Satna,Madhya Pradesh,2011,4664021,14337.6,325.3,Medium,Census2011_PCA,2011
+Rewa,Madhya Pradesh,2011,2508535,6712.7,373.7,Medium,Census2011_PCA,2011
+Katni,Madhya Pradesh,2011,4053451,8033.0,504.6,High,Census2011_PCA,2011
+Damoh,Madhya Pradesh,2011,2084454,7344.8,283.8,Medium,Census2011_PCA,2011
+Chhatarpur,Madhya Pradesh,2011,4698217,17330.2,271.1,Medium,Census2011_PCA,2011
+Tikamgarh,Madhya Pradesh,2011,2645423,8832.8,299.5,Medium,Census2011_PCA,2011
+Niwari,Madhya Pradesh,2011,5388156,11839.5,455.1,High,Census2011_PCA,2011
+Datia,Madhya Pradesh,2011,5738123,17273.1,332.2,Medium,Census2011_PCA,2011
+Bhind,Madhya Pradesh,2011,1404571,3953.2,355.3,Medium,Census2011_PCA,2011
+Morena,Madhya Pradesh,2011,275964,2280.7,121.0,Low,Census2011_PCA,2011
+Sheopur,Madhya Pradesh,2011,3722649,11684.4,318.6,Medium,Census2011_PCA,2011
+Guna,Madhya Pradesh,2011,5657397,12854.8,440.1,High,Census2011_PCA,2011
+Ashoknagar,Madhya Pradesh,2011,2175764,12635.1,172.2,Medium,Census2011_PCA,2011
+Shivpuri,Madhya Pradesh,2011,4587126,11792.1,389.0,Medium,Census2011_PCA,2011
+Vidisha,Madhya Pradesh,2011,794991,6783.2,117.2,Low,Census2011_PCA,2011
+Raisen,Madhya Pradesh,2011,2995129,7773.5,385.3,Medium,Census2011_PCA,2011
+Sehore,Madhya Pradesh,2011,2092611,9908.2,211.2,Medium,Census2011_PCA,2011
+Hoshangabad,Madhya Pradesh,2011,2009817,14064.5,142.9,Low,Census2011_PCA,2011
+Harda,Madhya Pradesh,2011,1180305,2292.3,514.9,High,Census2011_PCA,2011
+Betul,Madhya Pradesh,2011,3611466,8183.7,441.3,High,Census2011_PCA,2011
+Chhindwara,Madhya Pradesh,2011,4586578,11573.5,396.3,Medium,Census2011_PCA,2011
+Seoni,Madhya Pradesh,2011,2122691,9928.4,213.8,Medium,Census2011_PCA,2011
+Mandla,Madhya Pradesh,2011,829731,2166.4,383.0,Medium,Census2011_PCA,2011
+Balaghat,Madhya Pradesh,2011,2251123,4869.4,462.3,High,Census2011_PCA,2011
+Dindori,Madhya Pradesh,2011,1616420,7748.9,208.6,Medium,Census2011_PCA,2011
+Shahdol,Madhya Pradesh,2011,3425072,6958.7,492.2,High,Census2011_PCA,2011
+Anuppur,Madhya Pradesh,2011,3504614,12122.5,289.1,Medium,Census2011_PCA,2011
+Umaria,Madhya Pradesh,2011,3126666,14996.0,208.5,Medium,Census2011_PCA,2011
+Sidhi,Madhya Pradesh,2011,257899,2242.6,115.0,Low,Census2011_PCA,2011
+Singrauli,Madhya Pradesh,2011,2025956,4040.6,501.4,High,Census2011_PCA,2011
+Ratlam,Madhya Pradesh,2011,1818470,4881.8,372.5,Medium,Census2011_PCA,2011
+Mandsaur,Madhya Pradesh,2011,2321176,11971.0,193.9,Medium,Census2011_PCA,2011
+Neemuch,Madhya Pradesh,2011,1245746,12672.9,98.3,Low,Census2011_PCA,2011
+Agar Malwa,Madhya Pradesh,2011,928004,2292.5,404.8,High,Census2011_PCA,2011
+Shajapur,Madhya Pradesh,2011,1548548,2999.9,516.2,High,Census2011_PCA,2011
+Rajgarh,Madhya Pradesh,2011,1222767,7704.9,158.7,Medium,Census2011_PCA,2011
+Dewas,Madhya Pradesh,2011,4469401,17356.9,257.5,Medium,Census2011_PCA,2011
+Khargone,Madhya Pradesh,2011,4981530,14132.0,352.5,Medium,Census2011_PCA,2011
+Barwani,Madhya Pradesh,2011,2337431,5672.0,412.1,High,Census2011_PCA,2011
+Dhar,Madhya Pradesh,2011,3378591,9745.0,346.7,Medium,Census2011_PCA,2011
+Jhabua,Madhya Pradesh,2011,3107894,12451.5,249.6,Medium,Census2011_PCA,2011
+Alirajpur,Madhya Pradesh,2011,173427,1558.2,111.3,Low,Census2011_PCA,2011
+Khandwa,Madhya Pradesh,2011,1279753,9889.9,129.4,Low,Census2011_PCA,2011
+Burhanpur,Madhya Pradesh,2011,2364972,7337.8,322.3,Medium,Census2011_PCA,2011
+Narsinghpur,Madhya Pradesh,2011,687083,1513.4,454.0,High,Census2011_PCA,2011
+Mumbai City,Maharashtra,2011,1638623,2590.3,632.6,High,Census2011_PCA,2011
+Mumbai Suburban,Maharashtra,2011,2119867,3421.9,619.5,High,Census2011_PCA,2011
+Thane,Maharashtra,2011,3557135,5259.7,676.3,High,Census2011_PCA,2011
+Palghar,Maharashtra,2011,4941401,10420.5,474.2,High,Census2011_PCA,2011
+Raigad,Maharashtra,2011,610317,1270.7,480.3,High,Census2011_PCA,2011
+Ratnagiri,Maharashtra,2011,7218215,10175.1,709.4,High,Census2011_PCA,2011
+Sindhudurg,Maharashtra,2011,603984,1863.0,324.2,Medium,Census2011_PCA,2011
+Nashik,Maharashtra,2011,1318551,1706.2,772.8,High,Census2011_PCA,2011
+Dhule,Maharashtra,2011,2879841,10366.6,277.8,Medium,Census2011_PCA,2011
+Nandurbar,Maharashtra,2011,4461140,16257.8,274.4,Medium,Census2011_PCA,2011
+Jalgaon,Maharashtra,2011,11057657,15851.0,697.6,High,Census2011_PCA,2011
+Ahmednagar,Maharashtra,2011,2306409,4667.9,494.1,High,Census2011_PCA,2011
+Pune,Maharashtra,2011,7057710,9595.8,735.5,High,Census2011_PCA,2011
+Satara,Maharashtra,2011,1238964,1809.5,684.7,High,Census2011_PCA,2011
+Sangli,Maharashtra,2011,8577810,12762.7,672.1,High,Census2011_PCA,2011
+Solapur,Maharashtra,2011,1707084,3219.7,530.2,High,Census2011_PCA,2011
+Kolhapur,Maharashtra,2011,1790967,5137.6,348.6,Medium,Census2011_PCA,2011
+Aurangabad,Maharashtra,2011,4335545,6236.4,695.2,High,Census2011_PCA,2011
+Jalna,Maharashtra,2011,831883,1043.9,796.9,High,Census2011_PCA,2011
+Beed,Maharashtra,2011,168647,709.2,237.8,Medium,Census2011_PCA,2011
+Latur,Maharashtra,2011,6089422,10690.7,569.6,High,Census2011_PCA,2011
+Osmanabad,Maharashtra,2011,3767750,16338.9,230.6,Medium,Census2011_PCA,2011
+Nanded,Maharashtra,2011,5083492,7412.5,685.8,High,Census2011_PCA,2011
+Hingoli,Maharashtra,2011,803688,1106.4,726.4,High,Census2011_PCA,2011
+Parbhani,Maharashtra,2011,956947,2901.6,329.8,Medium,Census2011_PCA,2011
+Akola,Maharashtra,2011,11290066,14183.5,796.0,High,Census2011_PCA,2011
+Amravati,Maharashtra,2011,1605833,6080.4,264.1,Medium,Census2011_PCA,2011
+Buldhana,Maharashtra,2011,11691916,17993.1,649.8,High,Census2011_PCA,2011
+Washim,Maharashtra,2011,3277071,17936.9,182.7,Medium,Census2011_PCA,2011
+Yavatmal,Maharashtra,2011,2844443,10869.1,261.7,Medium,Census2011_PCA,2011
+Wardha,Maharashtra,2011,5345976,10354.4,516.3,High,Census2011_PCA,2011
+Nagpur,Maharashtra,2011,938405,4570.9,205.3,Medium,Census2011_PCA,2011
+Bhandara,Maharashtra,2011,10229057,16578.7,617.0,High,Census2011_PCA,2011
+Gondia,Maharashtra,2011,10925869,15561.7,702.1,High,Census2011_PCA,2011
+Chandrapur,Maharashtra,2011,767184,3256.3,235.6,Medium,Census2011_PCA,2011
+Gadchiroli,Maharashtra,2011,10081363,16754.8,601.7,High,Census2011_PCA,2011
+Imphal West,Manipur,2011,959625,13254.5,72.4,Low,Census2011_PCA,2011
+Imphal East,Manipur,2011,2836726,16618.2,170.7,Medium,Census2011_PCA,2011
+Thoubal,Manipur,2011,1686009,17691.6,95.3,Low,Census2011_PCA,2011
+Bishnupur,Manipur,2011,712056,5141.2,138.5,Low,Census2011_PCA,2011
+Kakching,Manipur,2011,3449957,17459.3,197.6,Medium,Census2011_PCA,2011
+Churachandpur,Manipur,2011,2674510,11892.0,224.9,Medium,Census2011_PCA,2011
+Senapati,Manipur,2011,437035,1798.5,243.0,Medium,Census2011_PCA,2011
+Ukhrul,Manipur,2011,1899357,11238.8,169.0,Medium,Census2011_PCA,2011
+Chandel,Manipur,2011,274505,4097.1,67.0,Low,Census2011_PCA,2011
+Tengnoupal,Manipur,2011,130290,1368.6,95.2,Low,Census2011_PCA,2011
+Tamenglong,Manipur,2011,2013695,11003.8,183.0,Medium,Census2011_PCA,2011
+Noney,Manipur,2011,818635,7455.7,109.8,Low,Census2011_PCA,2011
+Jiribam,Manipur,2011,1016884,8301.1,122.5,Low,Census2011_PCA,2011
+Pherzawl,Manipur,2011,368381,1999.9,184.2,Medium,Census2011_PCA,2011
+Kangpokpi,Manipur,2011,1685741,7826.1,215.4,Medium,Census2011_PCA,2011
+East Khasi Hills,Meghalaya,2011,3474980,13000.3,267.3,Medium,Census2011_PCA,2011
+West Khasi Hills,Meghalaya,2011,820360,3525.4,232.7,Medium,Census2011_PCA,2011
+South West Khasi Hills,Meghalaya,2011,2804133,17952.2,156.2,Medium,Census2011_PCA,2011
+Ri Bhoi,Meghalaya,2011,1080786,7453.7,145.0,Low,Census2011_PCA,2011
+East Jaintia Hills,Meghalaya,2011,1388193,7842.9,177.0,Medium,Census2011_PCA,2011
+West Jaintia Hills,Meghalaya,2011,422851,2267.3,186.5,Medium,Census2011_PCA,2011
+East Garo Hills,Meghalaya,2011,228230,1155.6,197.5,Medium,Census2011_PCA,2011
+West Garo Hills,Meghalaya,2011,612940,4657.6,131.6,Low,Census2011_PCA,2011
+South Garo Hills,Meghalaya,2011,1086934,9103.3,119.4,Low,Census2011_PCA,2011
+Eastern West Khasi Hills,Meghalaya,2011,1298485,5214.8,249.0,Medium,Census2011_PCA,2011
+North Garo Hills,Meghalaya,2011,3657164,15675.8,233.3,Medium,Census2011_PCA,2011
+Aizawl,Mizoram,2011,1596774,15888.3,100.5,Low,Census2011_PCA,2011
+Lunglei,Mizoram,2011,1369078,12831.1,106.7,Low,Census2011_PCA,2011
+Champhai,Mizoram,2011,606896,10895.8,55.7,Low,Census2011_PCA,2011
+Kolasib,Mizoram,2011,1141240,12554.9,90.9,Low,Census2011_PCA,2011
+Mamit,Mizoram,2011,1006079,12359.7,81.4,Low,Census2011_PCA,2011
+Serchhip,Mizoram,2011,1255056,11829.0,106.1,Low,Census2011_PCA,2011
+Lawngtlai,Mizoram,2011,641244,7916.6,81.0,Low,Census2011_PCA,2011
+Siaha,Mizoram,2011,132849,2290.5,58.0,Low,Census2011_PCA,2011
+Khawzawl,Mizoram,2011,116480,2391.8,48.7,Low,Census2011_PCA,2011
+Hnahthial,Mizoram,2011,597513,5728.8,104.3,Low,Census2011_PCA,2011
+Saitual,Mizoram,2011,1025330,12413.2,82.6,Low,Census2011_PCA,2011
+Kohima,Nagaland,2011,711594,12891.2,55.2,Low,Census2011_PCA,2011
+Dimapur,Nagaland,2011,2963911,12257.7,241.8,Medium,Census2011_PCA,2011
+Mokokchung,Nagaland,2011,376980,5026.4,75.0,Low,Census2011_PCA,2011
+Wokha,Nagaland,2011,1672881,13523.7,123.7,Low,Census2011_PCA,2011
+Zunheboto,Nagaland,2011,2324225,15661.9,148.4,Low,Census2011_PCA,2011
+Tuensang,Nagaland,2011,740323,5721.2,129.4,Low,Census2011_PCA,2011
+Mon,Nagaland,2011,2057113,8507.5,241.8,Medium,Census2011_PCA,2011
+Phek,Nagaland,2011,106888,582.5,183.5,Medium,Census2011_PCA,2011
+Kiphire,Nagaland,2011,748351,11253.4,66.5,Low,Census2011_PCA,2011
+Longleng,Nagaland,2011,95153,746.3,127.5,Low,Census2011_PCA,2011
+Peren,Nagaland,2011,1280420,6526.1,196.2,Medium,Census2011_PCA,2011
+Tseminyu,Nagaland,2011,1454757,13237.1,109.9,Low,Census2011_PCA,2011
+Shamator,Nagaland,2011,473168,3797.5,124.6,Low,Census2011_PCA,2011
+Noklak,Nagaland,2011,2215854,10819.6,204.8,Medium,Census2011_PCA,2011
+Khordha,Odisha,2011,494884,1350.3,366.5,Medium,Census2011_PCA,2011
+Cuttack,Odisha,2011,2939577,10077.4,291.7,Medium,Census2011_PCA,2011
+Puri,Odisha,2011,2238218,5224.6,428.4,High,Census2011_PCA,2011
+Jagatsinghpur,Odisha,2011,384142,2359.6,162.8,Medium,Census2011_PCA,2011
+Kendrapara,Odisha,2011,298113,1189.6,250.6,Medium,Census2011_PCA,2011
+Bhadrak,Odisha,2011,8264245,15116.6,546.7,High,Census2011_PCA,2011
+Balasore,Odisha,2011,1052236,4545.3,231.5,Medium,Census2011_PCA,2011
+Mayurbhanj,Odisha,2011,3607277,14527.9,248.3,Medium,Census2011_PCA,2011
+Keonjhar,Odisha,2011,1493939,3484.0,428.8,High,Census2011_PCA,2011
+Dhenkanal,Odisha,2011,1473416,7513.6,196.1,Medium,Census2011_PCA,2011
+Angul,Odisha,2011,1223139,2478.5,493.5,High,Census2011_PCA,2011
+Jajpur,Odisha,2011,6137699,12371.9,496.1,High,Census2011_PCA,2011
+Nayagarh,Odisha,2011,1613104,2786.5,578.9,High,Census2011_PCA,2011
+Ganjam,Odisha,2011,5548873,12363.8,448.8,High,Census2011_PCA,2011
+Gajapati,Odisha,2011,4605156,12760.2,360.9,Medium,Census2011_PCA,2011
+Kandhamal,Odisha,2011,5278266,10271.0,513.9,High,Census2011_PCA,2011
+Boudh,Odisha,2011,956818,1810.1,528.6,High,Census2011_PCA,2011
+Bolangir,Odisha,2011,1397126,4612.5,302.9,Medium,Census2011_PCA,2011
+Sonepur,Odisha,2011,4157805,11934.0,348.4,Medium,Census2011_PCA,2011
+Nuapada,Odisha,2011,2375345,5830.5,407.4,High,Census2011_PCA,2011
+Bargarh,Odisha,2011,1821621,8453.0,215.5,Medium,Census2011_PCA,2011
+Sambalpur,Odisha,2011,2082099,4380.6,475.3,High,Census2011_PCA,2011
+Jharsuguda,Odisha,2011,437776,3372.7,129.8,Low,Census2011_PCA,2011
+Sundargarh,Odisha,2011,4115640,7375.7,558.0,High,Census2011_PCA,2011
+Deogarh,Odisha,2011,5543635,10804.2,513.1,High,Census2011_PCA,2011
+Rayagada,Odisha,2011,491939,1350.0,364.4,Medium,Census2011_PCA,2011
+Koraput,Odisha,2011,5150090,13283.7,387.7,Medium,Census2011_PCA,2011
+Nabarangpur,Odisha,2011,9617875,16528.4,581.9,High,Census2011_PCA,2011
+Malkangiri,Odisha,2011,3920686,12750.2,307.5,Medium,Census2011_PCA,2011
+Kalahandi,Odisha,2011,1662056,4015.6,413.9,High,Census2011_PCA,2011
+Amritsar,Punjab,2011,10890063,9318.1,1168.7,Very High,Census2011_PCA,2011
+Gurdaspur,Punjab,2011,6873094,7805.9,880.5,High,Census2011_PCA,2011
+Pathankot,Punjab,2011,745584,3043.2,245.0,Medium,Census2011_PCA,2011
+Hoshiarpur,Punjab,2011,13227255,12585.4,1051.0,Very High,Census2011_PCA,2011
+Nawanshahr,Punjab,2011,14885797,15634.7,952.1,High,Census2011_PCA,2011
+Rupnagar,Punjab,2011,14671110,16713.5,877.8,High,Census2011_PCA,2011
+Mohali,Punjab,2011,5325474,11359.8,468.8,High,Census2011_PCA,2011
+Ludhiana,Punjab,2011,9739668,10065.8,967.6,High,Census2011_PCA,2011
+Firozpur,Punjab,2011,1434621,3541.4,405.1,High,Census2011_PCA,2011
+Fazilka,Punjab,2011,2969568,6284.8,472.5,High,Census2011_PCA,2011
+Moga,Punjab,2011,10022931,12083.1,829.5,High,Census2011_PCA,2011
+Jalandhar,Punjab,2011,680626,1693.1,402.0,High,Census2011_PCA,2011
+Kapurthala,Punjab,2011,3738160,6814.0,548.6,High,Census2011_PCA,2011
+Fatehgarh Sahib,Punjab,2011,2791603,12206.4,228.7,Medium,Census2011_PCA,2011
+Patiala,Punjab,2011,8887535,16528.8,537.7,High,Census2011_PCA,2011
+Sangrur,Punjab,2011,8601546,14549.3,591.2,High,Census2011_PCA,2011
+Malerkotla,Punjab,2011,6647462,17234.8,385.7,Medium,Census2011_PCA,2011
+Barnala,Punjab,2011,1483968,2318.7,640.0,High,Census2011_PCA,2011
+Bathinda,Punjab,2011,3061157,3190.7,959.4,High,Census2011_PCA,2011
+Mansa,Punjab,2011,3538614,4483.8,789.2,High,Census2011_PCA,2011
+Muktsar,Punjab,2011,8787812,11724.9,749.5,High,Census2011_PCA,2011
+Faridkot,Punjab,2011,4639372,14270.6,325.1,Medium,Census2011_PCA,2011
+Tarn Taran,Punjab,2011,6778764,9835.7,689.2,High,Census2011_PCA,2011
+Jaipur,Rajasthan,2011,5368449,16498.0,325.4,Medium,Census2011_PCA,2011
+Ajmer,Rajasthan,2011,73500,588.0,125.0,Low,Census2011_PCA,2011
+Alwar,Rajasthan,2011,1581363,7721.5,204.8,Medium,Census2011_PCA,2011
+Bharatpur,Rajasthan,2011,2116138,14494.1,146.0,Low,Census2011_PCA,2011
+Dhaulpur,Rajasthan,2011,311585,1678.8,185.6,Medium,Census2011_PCA,2011
+Karauli,Rajasthan,2011,1322418,11341.5,116.6,Low,Census2011_PCA,2011
+Sawai Madhopur,Rajasthan,2011,1960401,6878.6,285.0,Medium,Census2011_PCA,2011
+Tonk,Rajasthan,2011,3621092,15201.9,238.2,Medium,Census2011_PCA,2011
+Bundi,Rajasthan,2011,1001280,3576.0,280.0,Medium,Census2011_PCA,2011
+Kota,Rajasthan,2011,737261,1838.1,401.1,High,Census2011_PCA,2011
+Baran,Rajasthan,2011,4808292,16360.3,293.9,Medium,Census2011_PCA,2011
+Jhalawar,Rajasthan,2011,2258815,14012.5,161.2,Medium,Census2011_PCA,2011
+Jhunjhunu,Rajasthan,2011,4911771,15339.7,320.2,Medium,Census2011_PCA,2011
+Sikar,Rajasthan,2011,5100016,12039.7,423.6,High,Census2011_PCA,2011
+Nagaur,Rajasthan,2011,718101,6965.1,103.1,Low,Census2011_PCA,2011
+Jodhpur,Rajasthan,2011,1716581,17660.3,97.2,Low,Census2011_PCA,2011
+Barmer,Rajasthan,2011,982307,3542.4,277.3,Medium,Census2011_PCA,2011
+Jaisalmer,Rajasthan,2011,3896613,9536.5,408.6,High,Census2011_PCA,2011
+Bikaner,Rajasthan,2011,444131,3398.1,130.7,Low,Census2011_PCA,2011
+Churu,Rajasthan,2011,558231,4531.1,123.2,Low,Census2011_PCA,2011
+Ganganagar,Rajasthan,2011,340960,892.8,381.9,Medium,Census2011_PCA,2011
+Hanumangarh,Rajasthan,2011,504961,5019.5,100.6,Low,Census2011_PCA,2011
+Pali,Rajasthan,2011,1746267,5460.5,319.8,Medium,Census2011_PCA,2011
+Jalore,Rajasthan,2011,4290047,14405.8,297.8,Medium,Census2011_PCA,2011
+Sirohi,Rajasthan,2011,2649255,10835.4,244.5,Medium,Census2011_PCA,2011
+Udaipur,Rajasthan,2011,724148,3117.3,232.3,Medium,Census2011_PCA,2011
+Banswara,Rajasthan,2011,1098627,8939.2,122.9,Low,Census2011_PCA,2011
+Dungarpur,Rajasthan,2011,1880144,6981.6,269.3,Medium,Census2011_PCA,2011
+Pratapgarh,Rajasthan,2011,3954736,13474.4,293.5,Medium,Census2011_PCA,2011
+Rajsamand,Rajasthan,2011,2134856,5457.2,391.2,Medium,Census2011_PCA,2011
+Bhilwara,Rajasthan,2011,76985,625.9,123.0,Low,Census2011_PCA,2011
+Chittorgarh,Rajasthan,2011,2662573,15462.1,172.2,Medium,Census2011_PCA,2011
+Dausa,Rajasthan,2011,3255324,8943.2,364.0,Medium,Census2011_PCA,2011
+East Sikkim,Sikkim,2011,2293088,15462.5,148.3,Low,Census2011_PCA,2011
+West Sikkim,Sikkim,2011,619148,6422.7,96.4,Low,Census2011_PCA,2011
+North Sikkim,Sikkim,2011,147595,3043.2,48.5,Low,Census2011_PCA,2011
+South Sikkim,Sikkim,2011,1664640,17727.8,93.9,Low,Census2011_PCA,2011
+Pakyong,Sikkim,2011,1092297,8182.0,133.5,Low,Census2011_PCA,2011
+Soreng,Sikkim,2011,520089,4554.2,114.2,Low,Census2011_PCA,2011
+Chennai,Tamil Nadu,2011,6685711,6679.7,1000.9,Very High,Census2011_PCA,2011
+Tiruvallur,Tamil Nadu,2011,7603579,15020.9,506.2,High,Census2011_PCA,2011
+Kancheepuram,Tamil Nadu,2011,12153483,10560.9,1150.8,Very High,Census2011_PCA,2011
+Chengalpattu,Tamil Nadu,2011,15000000,17242.4,1024.1,Very High,Census2011_PCA,2011
+Vellore,Tamil Nadu,2011,13634748,13755.8,991.2,High,Census2011_PCA,2011
+Ranipet,Tamil Nadu,2011,3355044,11589.1,289.5,Medium,Census2011_PCA,2011
+Tirupattur,Tamil Nadu,2011,3490120,15063.1,231.7,Medium,Census2011_PCA,2011
+Krishnagiri,Tamil Nadu,2011,4668124,6686.9,698.1,High,Census2011_PCA,2011
+Dharmapuri,Tamil Nadu,2011,5635455,13370.0,421.5,High,Census2011_PCA,2011
+Salem,Tamil Nadu,2011,5455844,16603.3,328.6,Medium,Census2011_PCA,2011
+Namakkal,Tamil Nadu,2011,7996364,11361.7,703.8,High,Census2011_PCA,2011
+Erode,Tamil Nadu,2011,6145684,5404.7,1137.1,Very High,Census2011_PCA,2011
+Tiruppur,Tamil Nadu,2011,5350360,7390.0,724.0,High,Census2011_PCA,2011
+Coimbatore,Tamil Nadu,2011,979201,4188.2,233.8,Medium,Census2011_PCA,2011
+Nilgiris,Tamil Nadu,2011,7780574,11229.0,692.9,High,Census2011_PCA,2011
+Theni,Tamil Nadu,2011,1828792,3648.1,501.3,High,Census2011_PCA,2011
+Dindigul,Tamil Nadu,2011,4684803,7165.5,653.8,High,Census2011_PCA,2011
+Madurai,Tamil Nadu,2011,15000000,15364.3,1216.6,Very High,Census2011_PCA,2011
+Sivaganga,Tamil Nadu,2011,7802390,12584.5,620.0,High,Census2011_PCA,2011
+Virudhunagar,Tamil Nadu,2011,6004333,10306.1,582.6,High,Census2011_PCA,2011
+Ramanathapuram,Tamil Nadu,2011,4451306,10578.2,420.8,High,Census2011_PCA,2011
+Thoothukudi,Tamil Nadu,2011,15000000,16068.6,957.8,High,Census2011_PCA,2011
+Tirunelveli,Tamil Nadu,2011,6456095,11547.3,559.1,High,Census2011_PCA,2011
+Tenkasi,Tamil Nadu,2011,2658268,5180.8,513.1,High,Census2011_PCA,2011
+Kanyakumari,Tamil Nadu,2011,9189979,7744.8,1186.6,Very High,Census2011_PCA,2011
+Thanjavur,Tamil Nadu,2011,1033111,3420.9,302.0,Medium,Census2011_PCA,2011
+Tiruvarur,Tamil Nadu,2011,1929894,1956.9,986.2,High,Census2011_PCA,2011
+Nagapattinam,Tamil Nadu,2011,5799334,11463.4,505.9,High,Census2011_PCA,2011
+Mayiladuthurai,Tamil Nadu,2011,12253146,17562.2,697.7,High,Census2011_PCA,2011
+Ariyalur,Tamil Nadu,2011,9453962,11543.3,819.0,High,Census2011_PCA,2011
+Perambalur,Tamil Nadu,2011,11098664,14582.4,761.1,High,Census2011_PCA,2011
+Tiruchirappalli,Tamil Nadu,2011,6968393,6518.0,1069.1,Very High,Census2011_PCA,2011
+Karur,Tamil Nadu,2011,3668217,5626.1,652.0,High,Census2011_PCA,2011
+Pudukkottai,Tamil Nadu,2011,5160185,13399.6,385.1,Medium,Census2011_PCA,2011
+Cuddalore,Tamil Nadu,2011,15000000,14632.6,1131.0,Very High,Census2011_PCA,2011
+Kallakurichi,Tamil Nadu,2011,2250545,5567.9,404.2,High,Census2011_PCA,2011
+Villupuram,Tamil Nadu,2011,2678519,9862.0,271.6,Medium,Census2011_PCA,2011
+Hyderabad,Telangana,2011,1913413,9137.6,209.4,Medium,Census2011_PCA,2011
+Rangareddy,Telangana,2011,4735829,15262.1,310.3,Medium,Census2011_PCA,2011
+Medchal-Malkajgiri,Telangana,2011,8842655,14801.9,597.4,High,Census2011_PCA,2011
+Sangareddy,Telangana,2011,585569,1086.4,539.0,High,Census2011_PCA,2011
+Vikarabad,Telangana,2011,1846695,6153.6,300.1,Medium,Census2011_PCA,2011
+Medak,Telangana,2011,3789870,16031.6,236.4,Medium,Census2011_PCA,2011
+Siddipet,Telangana,2011,726032,2593.9,279.9,Medium,Census2011_PCA,2011
+Nizamabad,Telangana,2011,688771,2065.9,333.4,Medium,Census2011_PCA,2011
+Kamareddy,Telangana,2011,1865967,11780.1,158.4,Medium,Census2011_PCA,2011
+Jagtial,Telangana,2011,8025265,14596.7,549.8,High,Census2011_PCA,2011
+Rajanna Sircilla,Telangana,2011,3240497,8156.3,397.3,Medium,Census2011_PCA,2011
+Karimnagar,Telangana,2011,4204578,15048.6,279.4,Medium,Census2011_PCA,2011
+Peddapalli,Telangana,2011,169670,512.6,331.0,Medium,Census2011_PCA,2011
+Jayashankar Bhupalpally,Telangana,2011,3396146,13117.6,258.9,Medium,Census2011_PCA,2011
+Mulugu,Telangana,2011,2882854,6145.5,469.1,High,Census2011_PCA,2011
+Bhadradri Kothagudem,Telangana,2011,2484000,4036.4,615.4,High,Census2011_PCA,2011
+Khammam,Telangana,2011,2582555,4978.9,518.7,High,Census2011_PCA,2011
+Nalgonda,Telangana,2011,1186050,1899.2,624.5,High,Census2011_PCA,2011
+Suryapet,Telangana,2011,7795443,14913.8,522.7,High,Census2011_PCA,2011
+Yadadri Bhuvanagiri,Telangana,2011,2365056,13190.5,179.3,Medium,Census2011_PCA,2011
+Narayanpet,Telangana,2011,4236189,7765.7,545.5,High,Census2011_PCA,2011
+Jogulamba Gadwal,Telangana,2011,799032,3656.9,218.5,Medium,Census2011_PCA,2011
+Wanaparthy,Telangana,2011,5387311,17850.6,301.8,Medium,Census2011_PCA,2011
+Mahabubnagar,Telangana,2011,1871896,4243.7,441.1,High,Census2011_PCA,2011
+Nagarkurnool,Telangana,2011,9429695,17701.7,532.7,High,Census2011_PCA,2011
+Nandyal,Telangana,2011,532630,879.8,605.4,High,Census2011_PCA,2011
+West Tripura,Tripura,2011,275595,1160.4,237.5,Medium,Census2011_PCA,2011
+Sipahijala,Tripura,2011,1483557,7496.5,197.9,Medium,Census2011_PCA,2011
+Khowai,Tripura,2011,6079507,10584.1,574.4,High,Census2011_PCA,2011
+Gomati,Tripura,2011,2451188,13990.8,175.2,Medium,Census2011_PCA,2011
+Unakoti,Tripura,2011,6086517,11040.3,551.3,High,Census2011_PCA,2011
+North Tripura,Tripura,2011,2176186,9292.0,234.2,Medium,Census2011_PCA,2011
+Dhalai,Tripura,2011,2009017,4386.5,458.0,High,Census2011_PCA,2011
+South Tripura,Tripura,2011,778654,1988.9,391.5,Medium,Census2011_PCA,2011
+Lucknow,Uttar Pradesh,2011,10736092,10631.9,1009.8,Very High,Census2011_PCA,2011
+Agra,Uttar Pradesh,2011,3533007,2067.9,1708.5,Very High,Census2011_PCA,2011
+Mathura,Uttar Pradesh,2011,13969253,17783.9,785.5,High,Census2011_PCA,2011
+Aligarh,Uttar Pradesh,2011,4427946,7041.9,628.8,High,Census2011_PCA,2011
+Etah,Uttar Pradesh,2011,15000000,14852.3,1626.0,Very High,Census2011_PCA,2011
+Hathras,Uttar Pradesh,2011,4607344,4066.5,1133.0,Very High,Census2011_PCA,2011
+Firozabad,Uttar Pradesh,2011,3837952,10702.6,358.6,Medium,Census2011_PCA,2011
+Mainpuri,Uttar Pradesh,2011,4906490,11958.3,410.3,High,Census2011_PCA,2011
+Kannauj,Uttar Pradesh,2011,5638420,15679.7,359.6,Medium,Census2011_PCA,2011
+Farrukhabad,Uttar Pradesh,2011,15000000,9802.3,1623.0,Very High,Census2011_PCA,2011
+Kanpur Nagar,Uttar Pradesh,2011,7099267,6337.5,1120.2,Very High,Census2011_PCA,2011
+Kanpur Dehat,Uttar Pradesh,2011,15000000,9271.9,1789.2,Very High,Census2011_PCA,2011
+Etawah,Uttar Pradesh,2011,6258758,5403.4,1158.3,Very High,Census2011_PCA,2011
+Auraiya,Uttar Pradesh,2011,14239694,11446.7,1244.0,Very High,Census2011_PCA,2011
+Jalaun,Uttar Pradesh,2011,4691979,4118.3,1139.3,Very High,Census2011_PCA,2011
+Hamirpur,Uttar Pradesh,2011,3187706,2866.9,1111.9,Very High,Census2011_PCA,2011
+Mahoba,Uttar Pradesh,2011,15000000,17100.5,1161.9,Very High,Census2011_PCA,2011
+Banda,Uttar Pradesh,2011,7298970,7696.9,948.3,High,Census2011_PCA,2011
+Chitrakoot,Uttar Pradesh,2011,1830338,3733.1,490.3,High,Census2011_PCA,2011
+Fatehpur,Uttar Pradesh,2011,9201271,6787.1,1355.7,Very High,Census2011_PCA,2011
+Allahabad,Uttar Pradesh,2011,14571400,9100.3,1601.2,Very High,Census2011_PCA,2011
+Kaushambi,Uttar Pradesh,2011,12773657,13491.4,946.8,High,Census2011_PCA,2011
+Pratapgarh,Uttar Pradesh,2011,6565501,6185.7,1061.4,Very High,Census2011_PCA,2011
+Rae Bareli,Uttar Pradesh,2011,8933036,11201.3,797.5,High,Census2011_PCA,2011
+Amethi,Uttar Pradesh,2011,15000000,14972.7,1004.3,Very High,Census2011_PCA,2011
+Sultanpur,Uttar Pradesh,2011,12694544,11536.3,1100.4,Very High,Census2011_PCA,2011
+Ambedkar Nagar,Uttar Pradesh,2011,10789591,11229.8,960.8,High,Census2011_PCA,2011
+Faizabad,Uttar Pradesh,2011,7062487,14127.8,499.9,High,Census2011_PCA,2011
+Barabanki,Uttar Pradesh,2011,9809950,10133.2,968.1,High,Census2011_PCA,2011
+Gonda,Uttar Pradesh,2011,3731857,2662.0,1401.9,Very High,Census2011_PCA,2011
+Balrampur,Uttar Pradesh,2011,15000000,17120.7,1093.8,Very High,Census2011_PCA,2011
+Shravasti,Uttar Pradesh,2011,8714316,15704.3,554.9,High,Census2011_PCA,2011
+Bahraich,Uttar Pradesh,2011,3234602,2557.2,1264.9,Very High,Census2011_PCA,2011
+Lakhimpur Kheri,Uttar Pradesh,2011,685404,600.6,1141.2,Very High,Census2011_PCA,2011
+Sitapur,Uttar Pradesh,2011,5861432,4782.5,1225.6,Very High,Census2011_PCA,2011
+Hardoi,Uttar Pradesh,2011,1490864,1142.6,1304.8,Very High,Census2011_PCA,2011
+Unnao,Uttar Pradesh,2011,3447745,3619.3,952.6,High,Census2011_PCA,2011
+Lucknow,Uttar Pradesh,2011,10736092,10631.9,1009.8,Very High,Census2011_PCA,2011
+Barabanki,Uttar Pradesh,2011,9809950,10133.2,968.1,High,Census2011_PCA,2011
+Bara Banki,Uttar Pradesh,2011,15000000,11210.9,1368.3,Very High,Census2011_PCA,2011
+Varanasi,Uttar Pradesh,2011,15000000,17759.9,1723.1,Very High,Census2011_PCA,2011
+Chandauli,Uttar Pradesh,2011,5426529,10346.1,524.5,High,Census2011_PCA,2011
+Jaunpur,Uttar Pradesh,2011,944952,527.7,1790.7,Very High,Census2011_PCA,2011
+Ghazipur,Uttar Pradesh,2011,6013549,6341.4,948.3,High,Census2011_PCA,2011
+Azamgarh,Uttar Pradesh,2011,7399072,9367.1,789.9,High,Census2011_PCA,2011
+Mau,Uttar Pradesh,2011,1338633,3573.5,374.6,Medium,Census2011_PCA,2011
+Ballia,Uttar Pradesh,2011,12036028,11476.0,1048.8,Very High,Census2011_PCA,2011
+Deoria,Uttar Pradesh,2011,9042728,5738.5,1575.8,Very High,Census2011_PCA,2011
+Kushinagar,Uttar Pradesh,2011,11066468,6687.9,1654.7,Very High,Census2011_PCA,2011
+Gorakhpur,Uttar Pradesh,2011,8650630,7317.4,1182.2,Very High,Census2011_PCA,2011
+Sant Kabir Nagar,Uttar Pradesh,2011,8720178,9198.5,948.0,High,Census2011_PCA,2011
+Basti,Uttar Pradesh,2011,15000000,14111.3,1501.1,Very High,Census2011_PCA,2011
+Siddharth Nagar,Uttar Pradesh,2011,15000000,13317.7,1707.8,Very High,Census2011_PCA,2011
+Maharajganj,Uttar Pradesh,2011,3781719,2822.6,1339.8,Very High,Census2011_PCA,2011
+Ghaziabad,Uttar Pradesh,2011,14771680,10900.0,1355.2,Very High,Census2011_PCA,2011
+Hapur,Uttar Pradesh,2011,7107300,5962.5,1192.0,Very High,Census2011_PCA,2011
+Bulandshahr,Uttar Pradesh,2011,1576785,3113.1,506.5,High,Census2011_PCA,2011
+Meerut,Uttar Pradesh,2011,2399325,2977.2,805.9,High,Census2011_PCA,2011
+Baghpat,Uttar Pradesh,2011,2755200,2776.3,992.4,High,Census2011_PCA,2011
+Muzaffarnagar,Uttar Pradesh,2011,13262042,10873.2,1219.7,Very High,Census2011_PCA,2011
+Shamli,Uttar Pradesh,2011,13092699,9836.0,1331.1,Very High,Census2011_PCA,2011
+Saharanpur,Uttar Pradesh,2011,8719255,8472.7,1029.1,Very High,Census2011_PCA,2011
+Bijnor,Uttar Pradesh,2011,15000000,16475.1,1250.7,Very High,Census2011_PCA,2011
+Amroha,Uttar Pradesh,2011,3318363,8818.4,376.3,Medium,Census2011_PCA,2011
+Moradabad,Uttar Pradesh,2011,7175569,14807.2,484.6,High,Census2011_PCA,2011
+Rampur,Uttar Pradesh,2011,10767485,11365.3,947.4,High,Census2011_PCA,2011
+Bareilly,Uttar Pradesh,2011,12178861,8118.7,1500.1,Very High,Census2011_PCA,2011
+Pilibhit,Uttar Pradesh,2011,10701992,9016.0,1187.0,Very High,Census2011_PCA,2011
+Shahjahanpur,Uttar Pradesh,2011,1045064,2403.0,434.9,High,Census2011_PCA,2011
+Budaun,Uttar Pradesh,2011,15000000,16027.1,1548.9,Very High,Census2011_PCA,2011
+Sambhal,Uttar Pradesh,2011,9684031,10613.8,912.4,High,Census2011_PCA,2011
+Dehradun,Uttarakhand,2011,3214703,8107.7,396.5,Medium,Census2011_PCA,2011
+Haridwar,Uttarakhand,2011,672135,5648.2,119.0,Low,Census2011_PCA,2011
+Pauri Garhwal,Uttarakhand,2011,5768368,15649.4,368.6,Medium,Census2011_PCA,2011
+Tehri Garhwal,Uttarakhand,2011,3156403,12093.5,261.0,Medium,Census2011_PCA,2011
+Uttarkashi,Uttarakhand,2011,5072650,12226.2,414.9,High,Census2011_PCA,2011
+Chamoli,Uttarakhand,2011,817410,1981.6,412.5,High,Census2011_PCA,2011
+Rudraprayag,Uttarakhand,2011,1287944,9414.8,136.8,Low,Census2011_PCA,2011
+Pithoragarh,Uttarakhand,2011,1688695,4643.1,363.7,Medium,Census2011_PCA,2011
+Almora,Uttarakhand,2011,782318,2480.4,315.4,Medium,Census2011_PCA,2011
+Bageshwar,Uttarakhand,2011,2941557,8636.4,340.6,Medium,Census2011_PCA,2011
+Nainital,Uttarakhand,2011,1184446,11589.5,102.2,Low,Census2011_PCA,2011
+Udham Singh Nagar,Uttarakhand,2011,2177900,8711.6,250.0,Medium,Census2011_PCA,2011
+Champawat,Uttarakhand,2011,5304365,13614.9,389.6,Medium,Census2011_PCA,2011
+Kolkata,West Bengal,2011,15000000,14655.7,2246.0,Very High,Census2011_PCA,2011
+North 24 Parganas,West Bengal,2011,3559510,5417.0,657.1,High,Census2011_PCA,2011
+South 24 Parganas,West Bengal,2011,15000000,14637.2,1238.9,Very High,Census2011_PCA,2011
+Howrah,West Bengal,2011,1725677,3038.7,567.9,High,Census2011_PCA,2011
+Hooghly,West Bengal,2011,14302709,11657.6,1226.9,Very High,Census2011_PCA,2011
+Nadia,West Bengal,2011,5399116,7478.0,722.0,High,Census2011_PCA,2011
+Murshidabad,West Bengal,2011,3923553,3040.1,1290.6,Very High,Census2011_PCA,2011
+Birbhum,West Bengal,2011,2041519,1217.8,1676.4,Very High,Census2011_PCA,2011
+Burdwan,West Bengal,2011,5339568,5174.0,1032.0,Very High,Census2011_PCA,2011
+Bankura,West Bengal,2011,5874622,3911.2,1502.0,Very High,Census2011_PCA,2011
+Purulia,West Bengal,2011,958567,2209.7,433.8,High,Census2011_PCA,2011
+Jhargram,West Bengal,2011,9847959,16923.8,581.9,High,Census2011_PCA,2011
+West Midnapore,West Bengal,2011,5540975,2773.4,1997.9,Very High,Census2011_PCA,2011
+East Midnapore,West Bengal,2011,7638033,8671.7,880.8,High,Census2011_PCA,2011
+Darjeeling,West Bengal,2011,11318880,6159.6,1837.6,Very High,Census2011_PCA,2011
+Kalimpong,West Bengal,2011,11195098,5131.6,2181.6,Very High,Census2011_PCA,2011
+Jalpaiguri,West Bengal,2011,9461122,13952.4,678.1,High,Census2011_PCA,2011
+Alipurduar,West Bengal,2011,7180560,4885.4,1469.8,Very High,Census2011_PCA,2011
+Cooch Behar,West Bengal,2011,11540930,12751.0,905.1,High,Census2011_PCA,2011
+North Dinajpur,West Bengal,2011,15000000,14166.4,1974.9,Very High,Census2011_PCA,2011
+South Dinajpur,West Bengal,2011,15000000,16863.2,1462.2,Very High,Census2011_PCA,2011
+Malda,West Bengal,2011,15000000,17316.2,1401.8,Very High,Census2011_PCA,2011
+Central Delhi,Delhi,2011,15000000,3842.6,12330.6,Very High,Census2011_PCA,2011
+East Delhi,Delhi,2011,15000000,2949.0,19471.3,Very High,Census2011_PCA,2011
+New Delhi,Delhi,2011,15000000,9844.0,10776.4,Very High,Census2011_PCA,2011
+North Delhi,Delhi,2011,13841596,2568.3,5389.4,Very High,Census2011_PCA,2011
+North East Delhi,Delhi,2011,15000000,16684.3,16299.6,Very High,Census2011_PCA,2011
+North West Delhi,Delhi,2011,15000000,2784.4,18779.4,Very High,Census2011_PCA,2011
+Shahdara,Delhi,2011,15000000,14811.5,16537.4,Very High,Census2011_PCA,2011
+South Delhi,Delhi,2011,15000000,17688.4,21020.8,Very High,Census2011_PCA,2011
+South East Delhi,Delhi,2011,15000000,13874.0,20646.2,Very High,Census2011_PCA,2011
+South West Delhi,Delhi,2011,15000000,8176.6,15772.1,Very High,Census2011_PCA,2011
+West Delhi,Delhi,2011,15000000,9021.9,4836.6,Very High,Census2011_PCA,2011
+Jammu,Jammu & Kashmir,2011,1455255,14019.8,103.8,Low,Census2011_PCA,2011
+Samba,Jammu & Kashmir,2011,97189,1158.4,83.9,Low,Census2011_PCA,2011
+Kathua,Jammu & Kashmir,2011,105882,4623.7,22.9,Low,Census2011_PCA,2011
+Udhampur,Jammu & Kashmir,2011,622145,13980.8,44.5,Low,Census2011_PCA,2011
+Reasi,Jammu & Kashmir,2011,251716,3585.7,70.2,Low,Census2011_PCA,2011
+Ramban,Jammu & Kashmir,2011,1426789,13772.1,103.6,Low,Census2011_PCA,2011
+Doda,Jammu & Kashmir,2011,551188,16163.9,34.1,Low,Census2011_PCA,2011
+Kishtwar,Jammu & Kashmir,2011,626316,6207.3,100.9,Low,Census2011_PCA,2011
+Rajouri,Jammu & Kashmir,2011,1145152,16083.6,71.2,Low,Census2011_PCA,2011
+Poonch,Jammu & Kashmir,2011,1512966,17572.2,86.1,Low,Census2011_PCA,2011
+Anantnag,Jammu & Kashmir,2011,239825,3496.0,68.6,Low,Census2011_PCA,2011
+Kulgam,Jammu & Kashmir,2011,690357,17477.4,39.5,Low,Census2011_PCA,2011
+Pulwama,Jammu & Kashmir,2011,575171,5385.5,106.8,Low,Census2011_PCA,2011
+Shopian,Jammu & Kashmir,2011,255084,3107.0,82.1,Low,Census2011_PCA,2011
+Budgam,Jammu & Kashmir,2011,252700,9794.6,25.8,Low,Census2011_PCA,2011
+Srinagar,Jammu & Kashmir,2011,315359,13306.3,23.7,Low,Census2011_PCA,2011
+Ganderbal,Jammu & Kashmir,2011,680094,12807.8,53.1,Low,Census2011_PCA,2011
+Bandipora,Jammu & Kashmir,2011,906614,14322.5,63.3,Low,Census2011_PCA,2011
+Baramulla,Jammu & Kashmir,2011,60060,1072.5,56.0,Low,Census2011_PCA,2011
+Kupwara,Jammu & Kashmir,2011,486992,15914.8,30.6,Low,Census2011_PCA,2011
+Leh,Ladakh,2011,50000,11334.8,3.2,Low,Census2011_PCA,2011
+Kargil,Ladakh,2011,50000,4676.1,6.5,Low,Census2011_PCA,2011
+Puducherry,Puducherry,2011,15000000,4445.2,4523.2,Very High,Census2011_PCA,2011
+Karaikal,Puducherry,2011,15000000,9716.9,3313.0,Very High,Census2011_PCA,2011
+Mahé,Puducherry,2011,15000000,17043.9,4779.9,Very High,Census2011_PCA,2011
+Yanam,Puducherry,2011,15000000,5546.5,5238.4,Very High,Census2011_PCA,2011
+Chandigarh,Chandigarh,2011,15000000,11477.3,12372.1,Very High,Census2011_PCA,2011
+North & Middle Andaman,Andaman & Nicobar,2011,402187,5601.5,71.8,Low,Census2011_PCA,2011
+South Andaman,Andaman & Nicobar,2011,552516,11805.9,46.8,Low,Census2011_PCA,2011
+Nicobar,Andaman & Nicobar,2011,419388,14313.6,29.3,Low,Census2011_PCA,2011
+Dadra & Nagar Haveli,Dadra & Nagar Haveli and Daman & Diu,2011,6129252,8478.7,722.9,High,Census2011_PCA,2011
+Daman,Dadra & Nagar Haveli and Daman & Diu,2011,13981731,12161.2,1149.7,Very High,Census2011_PCA,2011
+Diu,Dadra & Nagar Haveli and Daman & Diu,2011,5285528,10343.5,511.0,High,Census2011_PCA,2011
+Lakshadweep,Lakshadweep,2011,15000000,16607.6,1897.9,Very High,Census2011_PCA,2011

@@ -1,0 +1,24 @@
+﻿{
+  "generated_at": "2026-03-22T03:10:00Z",
+  "kpis": [
+    { "label": "Active alerts", "value": "7", "trend": "+2 since yesterday" },
+    { "label": "High-risk districts", "value": "3", "trend": "Stable" },
+    { "label": "Average risk", "value": "61.3", "trend": "+4.3%" }
+  ],
+  "top_hotspots": [
+    { "district_code": "D001", "district_name": "Chennai", "risk_score": 76, "risk_level": "critical" },
+    { "district_code": "D002", "district_name": "Madurai", "risk_score": 68, "risk_level": "high" },
+    { "district_code": "D003", "district_name": "Coimbatore", "risk_score": 51, "risk_level": "high" }
+  ],
+  "recent_alerts": [
+    { "id": 1, "title": "High risk detected", "severity": "high", "status": "new", "district_code": "D001", "created_at": "2026-03-22T03:00:00Z" },
+    { "id": 2, "title": "Critical cluster warning", "severity": "critical", "status": "in_review", "district_code": "D002", "created_at": "2026-03-22T02:10:00Z" }
+  ],
+  "decision_summary": "Risk is elevated in priority districts due to rainfall, contamination, and reported fever spikes.",
+  "contributing_factors": [
+    "Heavy rainfall accumulation",
+    "Elevated water level",
+    "Fever case spike",
+    "High contamination index"
+  ]
+}
