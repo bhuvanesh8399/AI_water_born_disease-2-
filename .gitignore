@@ -5,6 +5,9 @@ frontend/node_modules/
 frontend/dist/
 _zip_inspect/
 .pytest_cache/
+backend/.env
+frontend/.env
+*.tsbuildinfo
 test_ews.db
 backend/ews.db
 backend/test_ews.db
